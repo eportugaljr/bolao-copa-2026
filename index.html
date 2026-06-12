@@ -3,201 +3,157 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bolão da Copa 2026</title>
+<title>Bolão Copa 2026</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Trebuchet MS',sans-serif;background:#0d1b2e;color:#fff;min-height:100vh}
-input[type=number]::-webkit-inner-spin-button{-webkit-appearance:none}
-input[type=number]{-moz-appearance:textfield}
-.tab-bar{display:flex;background:#0a1628;border-bottom:1px solid rgba(255,255,255,0.08);overflow-x:auto;scrollbar-width:none}
+body{font-family:'Segoe UI',Arial,sans-serif;background:#f0f4f8;color:#1a202c;min-height:100vh}
+/* HEADER */
+.header{background:linear-gradient(135deg,#1a6b3c 0%,#2d9e5f 50%,#1a6b3c 100%);padding:20px 16px;text-align:center;box-shadow:0 2px 12px rgba(0,0,0,0.2)}
+.header h1{font-size:22px;font-weight:800;color:#fff;letter-spacing:1px}
+.header p{font-size:12px;color:rgba(255,255,255,0.75);margin-top:3px;letter-spacing:2px;text-transform:uppercase}
+/* TABS */
+.tab-bar{display:flex;background:#fff;border-bottom:2px solid #e2e8f0;overflow-x:auto;scrollbar-width:none;box-shadow:0 1px 4px rgba(0,0,0,0.06)}
 .tab-bar::-webkit-scrollbar{display:none}
-.tab{padding:14px 18px;font-size:13px;cursor:pointer;white-space:nowrap;border-bottom:2px solid transparent;color:rgba(255,255,255,0.5);transition:.2s;flex-shrink:0}
-.tab.active{color:#FFD700;border-bottom-color:#FFD700;font-weight:700}
-.view{display:none;padding:16px;max-width:820px;margin:0 auto}
+.tab{padding:14px 20px;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;border-bottom:3px solid transparent;color:#718096;transition:.2s;flex-shrink:0;margin-bottom:-2px}
+.tab:hover{color:#1a6b3c;background:#f7fdf9}
+.tab.active{color:#1a6b3c;border-bottom-color:#1a6b3c;background:#f7fdf9}
+/* VIEWS */
+.view{display:none;padding:16px;max-width:860px;margin:0 auto}
 .view.active{display:block}
-.section-label{font-size:10px;color:#FFD700;letter-spacing:2px;text-transform:uppercase;margin:18px 0 10px;display:flex;align-items:center;gap:8px}
-.section-label span{flex:1;height:1px;background:rgba(255,215,0,0.15)}
-.card{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:14px;padding:14px 16px;margin-bottom:10px}
-.btn{padding:10px 20px;border-radius:20px;border:none;cursor:pointer;font-size:13px;font-weight:700;transition:.15s}
-.btn-gold{background:#FFD700;color:#000}
-.btn-gold:hover{background:#ffe34d}
-.btn-ghost{background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.15);color:rgba(255,255,255,0.7)}
-.score-input{width:52px;height:46px;text-align:center;font-size:22px;font-weight:700;background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.2);border-radius:10px;color:#FFD700;outline:none;transition:.2s}
-.score-input:focus{border-color:#FFD700;background:rgba(255,215,0,0.08)}
-.avatar{width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;flex-shrink:0;color:#fff}
-.pill{display:inline-flex;align-items:center;gap:5px;padding:5px 10px;border-radius:20px;font-size:12px;font-weight:600}
-.pill-gold{background:rgba(255,215,0,0.15);border:1px solid rgba(255,215,0,0.3);color:#FFD700}
-.pill-green{background:rgba(46,204,113,0.12);border:1px solid rgba(46,204,113,0.3);color:#2ECC71}
-.pill-blue{background:rgba(52,152,219,0.12);border:1px solid rgba(52,152,219,0.3);color:#74B9FF}
-.pill-dim{background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);color:rgba(255,255,255,0.4)}
-.participant-chip{padding:8px 13px;border-radius:20px;border:1px solid rgba(255,255,255,0.12);background:rgba(255,255,255,0.04);color:rgba(255,255,255,0.7);cursor:pointer;font-size:13px;display:flex;align-items:center;gap:6px;transition:.15s}
-.participant-chip:hover{border-color:rgba(255,215,0,0.4);background:rgba(255,215,0,0.06);color:#FFD700}
-.participant-chip.selected{border-color:#FFD700;background:rgba(255,215,0,0.15);color:#FFD700;font-weight:700}
-.game-row{display:flex;align-items:center;gap:10px;padding:12px 14px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;margin-bottom:8px}
-.rank-row{display:flex;align-items:center;gap:12px;padding:13px 16px;border-radius:13px;margin-bottom:8px}
-.rank-row.gold{background:rgba(255,215,0,0.07);border:1px solid rgba(255,215,0,0.2)}
-.rank-row.silver{background:rgba(192,192,192,0.06);border:1px solid rgba(192,192,192,0.15)}
-.rank-row.bronze{background:rgba(205,127,50,0.06);border:1px solid rgba(205,127,50,0.15)}
-.rank-row.normal{background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.07)}
-.bar-bg{height:5px;background:rgba(255,255,255,0.08);border-radius:3px;flex:1;min-width:60px;overflow:hidden}
-.bar-fill{height:100%;border-radius:3px;transition:width .6s ease}
-.toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:#2ECC71;color:#fff;padding:12px 24px;border-radius:24px;font-size:14px;font-weight:700;z-index:999;opacity:0;transition:opacity .3s;pointer-events:none;white-space:nowrap}
-.toast.show{opacity:1}
-.stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:20px}
-.stat-card{background:rgba(255,255,255,0.05);border-radius:12px;padding:12px 14px;text-align:center}
-.stat-val{font-size:26px;font-weight:800;color:#FFD700}
-.stat-lbl{font-size:10px;color:rgba(255,255,255,0.45);text-transform:uppercase;letter-spacing:1px;margin-top:2px}
-.notice{background:rgba(255,215,0,0.08);border:1px solid rgba(255,215,0,0.2);border-radius:10px;padding:10px 14px;font-size:12px;color:rgba(255,215,0,0.9);margin-bottom:16px}
-.locked-badge{background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:8px;padding:4px 10px;font-size:11px;color:rgba(255,255,255,0.35)}
-select,input[type=text],input[type=password]{background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.15);border-radius:8px;color:#fff;padding:8px 12px;font-size:13px;outline:none}
-select:focus,input[type=text]:focus,input[type=password]:focus{border-color:#FFD700}
-select option{background:#1a2744;color:#fff}
-.loading{text-align:center;padding:50px;color:rgba(255,255,255,0.35);font-size:14px}
-.spinner{display:inline-block;width:20px;height:20px;border:2px solid rgba(255,215,0,0.3);border-top-color:#FFD700;border-radius:50%;animation:spin .8s linear infinite;margin-right:8px;vertical-align:middle}
+/* CARDS */
+.card{background:#fff;border-radius:12px;box-shadow:0 1px 6px rgba(0,0,0,0.07);padding:16px;margin-bottom:12px;border:1px solid #e8edf2}
+.card-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px}
+/* BADGES */
+.badge{display:inline-flex;align-items:center;gap:4px;padding:4px 10px;border-radius:20px;font-size:12px;font-weight:700}
+.badge-green{background:#d4edda;color:#155724}
+.badge-blue{background:#d1ecf1;color:#0c5460}
+.badge-yellow{background:#fff3cd;color:#856404}
+.badge-gray{background:#f1f3f5;color:#6c757d}
+.badge-red{background:#f8d7da;color:#721c24}
+/* SECTION LABEL */
+.section-label{font-size:11px;font-weight:700;color:#1a6b3c;letter-spacing:2px;text-transform:uppercase;margin:20px 0 10px;display:flex;align-items:center;gap:8px}
+.section-label span{flex:1;height:1px;background:#d4edda}
+/* GAME ROW */
+.game-row{display:flex;align-items:center;gap:10px;padding:11px 14px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:7px;transition:.15s}
+.game-row:hover{border-color:#b2dfcc;background:#f7fdf9}
+.team-cell{display:flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:#2d3748}
+/* STAT GRID */
+.stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:20px}
+.stat-card{background:#fff;border-radius:12px;padding:14px;text-align:center;border:1px solid #e2e8f0;box-shadow:0 1px 4px rgba(0,0,0,0.05)}
+.stat-val{font-size:28px;font-weight:800;color:#1a6b3c}
+.stat-lbl{font-size:11px;color:#718096;text-transform:uppercase;letter-spacing:1px;margin-top:3px}
+/* RANKING */
+.rank-row{display:flex;align-items:center;gap:12px;padding:13px 16px;border-radius:12px;margin-bottom:8px;background:#fff;border:1px solid #e2e8f0;transition:.15s}
+.rank-row:hover{box-shadow:0 2px 8px rgba(0,0,0,0.08)}
+.rank-row.gold{background:linear-gradient(135deg,#fffbeb,#fef3c7);border-color:#f6d860}
+.rank-row.silver{background:linear-gradient(135deg,#f8f9fa,#e9ecef);border-color:#ced4da}
+.rank-row.bronze{background:linear-gradient(135deg,#fff5f0,#ffe8d6);border-color:#f4a261}
+.bar-bg{height:6px;background:#e2e8f0;border-radius:3px;flex:1;min-width:60px;overflow:hidden}
+.bar-fill{height:100%;border-radius:3px;transition:width .7s ease}
+/* AVATAR */
+.avatar{width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:800;color:#fff;flex-shrink:0}
+/* PALPITES TABLE */
+.palpite-chip{display:inline-flex;align-items:center;gap:4px;padding:4px 9px;border-radius:16px;font-size:11px;font-weight:700;margin:2px}
+.chip-exact{background:#d4edda;color:#155724;border:1px solid #c3e6cb}
+.chip-right{background:#d1ecf1;color:#0c5460;border:1px solid #bee5eb}
+.chip-wrong{background:#f8f9fa;color:#adb5bd;border:1px solid #dee2e6}
+.chip-empty{background:#f8f9fa;color:#ced4da;border:1px solid #e9ecef;font-style:italic}
+/* SELECT */
+select,input[type=text]{background:#fff;border:1.5px solid #d1d9e0;border-radius:8px;color:#2d3748;padding:9px 13px;font-size:13px;outline:none;transition:.2s}
+select:focus,input[type=text]:focus{border-color:#1a6b3c;box-shadow:0 0 0 3px rgba(26,107,60,0.1)}
+/* BUTTON */
+.btn{padding:9px 20px;border-radius:20px;border:none;cursor:pointer;font-size:13px;font-weight:700;transition:.15s}
+.btn-green{background:#1a6b3c;color:#fff}
+.btn-green:hover{background:#145530}
+.btn-outline{background:#fff;border:1.5px solid #1a6b3c;color:#1a6b3c}
+.btn-outline:hover{background:#f7fdf9}
+/* LOADING */
+.loading{text-align:center;padding:50px;color:#718096;font-size:14px}
+.spinner{display:inline-block;width:22px;height:22px;border:2px solid #d4edda;border-top-color:#1a6b3c;border-radius:50%;animation:spin .8s linear infinite;margin-right:8px;vertical-align:middle}
 @keyframes spin{to{transform:rotate(360deg)}}
-@media(max-width:500px){.game-row{flex-wrap:wrap}.score-input{width:46px;height:42px;font-size:18px}}
+/* TOAST */
+.toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:#1a6b3c;color:#fff;padding:12px 24px;border-radius:24px;font-size:14px;font-weight:700;z-index:999;opacity:0;transition:opacity .3s;pointer-events:none;white-space:nowrap;box-shadow:0 4px 16px rgba(0,0,0,0.2)}
+.toast.show{opacity:1}
+/* NOTICE */
+.notice{background:#f0fdf4;border:1.5px solid #b2dfcc;border-radius:10px;padding:12px 16px;font-size:13px;color:#1a6b3c;margin-bottom:16px;display:flex;align-items:flex-start;gap:8px}
+/* RULES */
+.rules-box{background:#f8f9fa;border-radius:10px;padding:14px 16px;font-size:13px;color:#4a5568;line-height:1.8;border:1px solid #e2e8f0}
+.rules-box li{margin-left:16px}
+/* SYNC */
+.sync-dot{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:4px}
+/* RESPONSIVE */
+@media(max-width:500px){.header h1{font-size:18px}.tab{padding:12px 14px;font-size:12px}.game-row{flex-wrap:wrap}}
+/* PODIUM */
+.podium{display:flex;justify-content:center;align-items:flex-end;gap:8px;margin-bottom:24px;padding:20px 0 0}
+.podium-item{text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px}
+.podium-block{border-radius:8px 8px 0 0;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:800;color:#fff;width:80px}
+.podium-name{font-size:11px;font-weight:700;color:#2d3748;max-width:80px;word-break:break-word;text-align:center}
+.podium-pts{font-size:12px;color:#718096}
+/* PARTICIPANT CHIPS */
+.part-chip{padding:7px 14px;border-radius:20px;border:1.5px solid #d1d9e0;background:#fff;color:#4a5568;cursor:pointer;font-size:13px;font-weight:600;display:flex;align-items:center;gap:6px;transition:.15s}
+.part-chip:hover{border-color:#1a6b3c;color:#1a6b3c;background:#f7fdf9}
+.part-chip.active{border-color:#1a6b3c;background:#1a6b3c;color:#fff}
 </style>
 </head>
 <body>
 
-<!-- HEADER -->
-<div style="background:#0a1628;border-bottom:1px solid rgba(255,255,255,0.08);padding:12px 16px;display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:100">
-  <span style="font-size:24px">⚽</span>
-  <div>
-    <div style="font-size:16px;font-weight:800;color:#FFD700;letter-spacing:1px">BOLÃO DA COPA 2026</div>
-    <div style="font-size:10px;color:rgba(255,255,255,0.4);letter-spacing:2px">PALPITES · RANKING · RESULTADOS</div>
-  </div>
-  <div id="sync-badge" style="margin-left:auto;font-size:11px;color:rgba(255,255,255,0.35);display:flex;align-items:center;gap:5px">
-    <span id="sync-dot" style="width:7px;height:7px;border-radius:50%;background:#FAC775;display:inline-block"></span>
-    <span id="sync-text">conectando...</span>
+<div class="header">
+  <div style="font-size:28px;margin-bottom:6px">⚽🏆</div>
+  <h1>BOLÃO DA COPA 2026</h1>
+  <p>Canadá · México · Estados Unidos</p>
+  <div style="margin-top:10px;font-size:12px;color:rgba(255,255,255,0.6);display:flex;align-items:center;justify-content:center;gap:6px">
+    <span class="sync-dot" id="sync-dot" style="background:#86efac"></span>
+    <span id="sync-text">carregando...</span>
   </div>
 </div>
 
-<!-- TABS -->
 <div class="tab-bar">
-  <div class="tab active" onclick="switchView('palpitar')">🖊️ Palpitar</div>
-  <div class="tab" onclick="switchView('ver')">👁️ Ver Palpites</div>
+  <div class="tab active" onclick="switchView('palpites')">📋 Palpites por Jogo</div>
+  <div class="tab" onclick="switchView('porpart')">👤 Por Participante</div>
+  <div class="tab" onclick="switchView('resultados')">⚽ Resultados</div>
   <div class="tab" onclick="switchView('ranking')">🏆 Ranking</div>
-  <div class="tab" onclick="switchView('admin')">⚙️ Admin</div>
 </div>
 
-<!-- VIEWS -->
-<div id="view-palpitar" class="view active"><div class="loading"><span class="spinner"></span>Carregando...</div></div>
-<div id="view-ver" class="view"><div class="loading"><span class="spinner"></span>Carregando...</div></div>
-<div id="view-ranking" class="view"><div class="loading"><span class="spinner"></span>Carregando...</div></div>
-<div id="view-admin" class="view"><div class="loading"><span class="spinner"></span>Carregando...</div></div>
+<div id="view-palpites" class="view active"><div class="loading"><span class="spinner"></span>Carregando dados...</div></div>
+<div id="view-porpart" class="view"><div class="loading"><span class="spinner"></span>Carregando dados...</div></div>
+<div id="view-resultados" class="view"><div class="loading"><span class="spinner"></span>Carregando dados...</div></div>
+<div id="view-ranking" class="view"><div class="loading"><span class="spinner"></span>Carregando dados...</div></div>
 
 <div class="toast" id="toast"></div>
 
-<!-- FIREBASE SDK -->
-<script type="module">
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
-import { getDatabase, ref, set, get, onValue, update } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js";
+<script>
+// ── CONFIG ─────────────────────────────────────────────────────────
+// ATENÇÃO: substitua pela URL raw do seu dados.json no GitHub
+const DATA_URL = 'dados.json';
 
-const firebaseConfig = {
-  apiKey: "AIzaSyBlynq8DTIHMhCklAYiE47j16XuWVoedIg",
-  authDomain: "bolao-copa-2026-82666.firebaseapp.com",
-  databaseURL: "https://bolao-copa-2026-82666-default-rtdb.firebaseio.com",
-  projectId: "bolao-copa-2026-82666",
-  storageBucket: "bolao-copa-2026-82666.firebasestorage.app",
-  messagingSenderId: "199475984448",
-  appId: "1:199475984448:web:c85f2d10e03bc7bfda47a5"
-};
-
-const app = initializeApp(firebaseConfig);
-const db = getDatabase(app);
-
-// ─── DADOS INICIAIS ───────────────────────────────────────────────
-const DEFAULT_PARTICIPANTS = ["Alexandre","Angelica","Carla","Carol","Ceará","Daniel","Eduardo","Fabio","Felipe","Glads","João","Jr","Julia","Keli","Leo","Marina","Natalina","Petra","Rafael","Renata","Tais","Tre","Vitória"];
-
-const DEFAULT_GAMES = [
-  {id:1,home:"México",away:"África do Sul",phase:"Fase de Grupos · R1"},
-  {id:2,home:"Coreia do Sul",away:"Tchéquia",phase:"Fase de Grupos · R1"},
-  {id:3,home:"Canadá",away:"Bósnia e Herzegovina",phase:"Fase de Grupos · R1"},
-  {id:4,home:"Estados Unidos",away:"Paraguai",phase:"Fase de Grupos · R1"},
-  {id:5,home:"Catar",away:"Suíça",phase:"Fase de Grupos · R1"},
-  {id:6,home:"Brasil",away:"Marrocos",phase:"Fase de Grupos · R1"},
-  {id:7,home:"Haiti",away:"Escócia",phase:"Fase de Grupos · R1"},
-  {id:8,home:"Austrália",away:"Turquia",phase:"Fase de Grupos · R1"},
-  {id:9,home:"Alemanha",away:"Curaçao",phase:"Fase de Grupos · R1"},
-  {id:10,home:"Holanda",away:"Japão",phase:"Fase de Grupos · R1"},
-  {id:11,home:"Costa do Marfim",away:"Equador",phase:"Fase de Grupos · R1"},
-  {id:12,home:"Suécia",away:"Tunísia",phase:"Fase de Grupos · R1"},
-  {id:13,home:"Espanha",away:"Cabo Verde",phase:"Fase de Grupos · R1"},
-  {id:14,home:"Bélgica",away:"Egito",phase:"Fase de Grupos · R1"},
-  {id:15,home:"Arábia Saudita",away:"Uruguai",phase:"Fase de Grupos · R1"},
-  {id:16,home:"Irã",away:"Nova Zelândia",phase:"Fase de Grupos · R1"},
-  {id:17,home:"França",away:"Senegal",phase:"Fase de Grupos · R1"},
-  {id:18,home:"Iraque",away:"Noruega",phase:"Fase de Grupos · R1"},
-  {id:19,home:"Argentina",away:"Argélia",phase:"Fase de Grupos · R1"},
-  {id:20,home:"Áustria",away:"Jordânia",phase:"Fase de Grupos · R1"},
-  {id:21,home:"Portugal",away:"RD Congo",phase:"Fase de Grupos · R1"},
-  {id:22,home:"Inglaterra",away:"Croácia",phase:"Fase de Grupos · R1"},
-  {id:23,home:"Gana",away:"Panamá",phase:"Fase de Grupos · R1"},
-  {id:24,home:"Uzbequistão",away:"Colômbia",phase:"Fase de Grupos · R1"}
-];
-
-const FLAGS = {"México":"🇲🇽","África do Sul":"🇿🇦","Coreia do Sul":"🇰🇷","Tchéquia":"🇨🇿","Canadá":"🇨🇦","Bósnia e Herzegovina":"🇧🇦","Estados Unidos":"🇺🇸","Paraguai":"🇵🇾","Catar":"🇶🇦","Suíça":"🇨🇭","Brasil":"🇧🇷","Marrocos":"🇲🇦","Haiti":"🇭🇹","Escócia":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","Austrália":"🇦🇺","Turquia":"🇹🇷","Alemanha":"🇩🇪","Curaçao":"🇨🇼","Holanda":"🇳🇱","Japão":"🇯🇵","Costa do Marfim":"🇨🇮","Equador":"🇪🇨","Suécia":"🇸🇪","Tunísia":"🇹🇳","Espanha":"🇪🇸","Cabo Verde":"🇨🇻","Bélgica":"🇧🇪","Egito":"🇪🇬","Arábia Saudita":"🇸🇦","Uruguai":"🇺🇾","Irã":"🇮🇷","Nova Zelândia":"🇳🇿","França":"🇫🇷","Senegal":"🇸🇳","Iraque":"🇮🇶","Noruega":"🇳🇴","Argentina":"🇦🇷","Argélia":"🇩🇿","Áustria":"🇦🇹","Jordânia":"🇯🇴","Portugal":"🇵🇹","RD Congo":"🇨🇩","Inglaterra":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","Croácia":"🇭🇷","Gana":"🇬🇭","Panamá":"🇵🇦","Uzbequistão":"🇺🇿","Colômbia":"🇨🇴"};
+const FLAGS = {"México":"🇲🇽","África do Sul":"🇿🇦","Africa do Sul":"🇿🇦","Coreia do Sul":"🇰🇷","Tchéquia":"🇨🇿","Tchequia":"🇨🇿","Canadá":"🇨🇦","Canada":"🇨🇦","Bósnia e Herzegovina":"🇧🇦","Bosnia e Herzegovina":"🇧🇦","Bósnia":"🇧🇦","Estados Unidos":"🇺🇸","Paraguai":"🇵🇾","Catar":"🇶🇦","Suíça":"🇨🇭","Suica":"🇨🇭","Brasil":"🇧🇷","Marrocos":"🇲🇦","Haiti":"🇭🇹","Escócia":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","Escocia":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","Austrália":"🇦🇺","Australia":"🇦🇺","Turquia":"🇹🇷","Alemanha":"🇩🇪","Curaçao":"🇨🇼","Curacao":"🇨🇼","Holanda":"🇳🇱","Japão":"🇯🇵","Japao":"🇯🇵","Costa do Marfim":"🇨🇮","Equador":"🇪🇨","Suécia":"🇸🇪","Suecia":"🇸🇪","Tunísia":"🇹🇳","Tunisia":"🇹🇳","Espanha":"🇪🇸","Cabo Verde":"🇨🇻","Bélgica":"🇧🇪","Belgica":"🇧🇪","Egito":"🇪🇬","Arábia Saudita":"🇸🇦","Arabia Saudita":"🇸🇦","Uruguai":"🇺🇾","Irã":"🇮🇷","Ira":"🇮🇷","Nova Zelândia":"🇳🇿","Nova Zelanda":"🇳🇿","França":"🇫🇷","Franca":"🇫🇷","Senegal":"🇸🇳","Iraque":"🇮🇶","Noruega":"🇳🇴","Argentina":"🇦🇷","Argélia":"🇩🇿","Algeria":"🇩🇿","Áustria":"🇦🇹","Austria":"🇦🇹","Jordânia":"🇯🇴","Jordania":"🇯🇴","Portugal":"🇵🇹","RD Congo":"🇨🇩","Inglaterra":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","Croácia":"🇭🇷","Croatia":"🇭🇷","Gana":"🇬🇭","Panamá":"🇵🇦","Panama":"🇵🇦","Uzbequistão":"🇺🇿","Uzbequistao":"🇺🇿","Colômbia":"🇨🇴","Colombia":"🇨🇴"};
 const f = c => FLAGS[c] || '🏳️';
 
-const AVATAR_COLORS = ["#E74C3C","#3498DB","#2ECC71","#F39C12","#9B59B6","#1ABC9C","#E67E22","#E91E63","#00BCD4","#FF5722","#607D8B","#8E44AD","#16A085","#D35400","#2980B9","#27AE60","#C0392B","#7F8C8D","#F39C12","#1ABC9C","#E74C3C","#3498DB","#2ECC71"];
+const AVATAR_COLORS = ["#1a6b3c","#2980b9","#8e44ad","#c0392b","#d35400","#16a085","#2c3e50","#f39c12","#27ae60","#2471a3","#7d3c98","#cb4335","#ca6f1e","#148f77","#1c2833","#e67e22","#1abc9c","#3498db","#9b59b6","#e74c3c","#e74c3c","#2ecc71","#f1c40f"];
 function avatarColor(name){let h=0;for(let c of name)h=(h*31+c.charCodeAt(0))%AVATAR_COLORS.length;return AVATAR_COLORS[h]}
-function ini(name){return name.slice(0,1).toUpperCase()}
+function ini(name){return (name||'?').slice(0,1).toUpperCase()}
 
-const ADMIN_PW = 'admin123';
+// ── STATE ──────────────────────────────────────────────────────────
+let D = null; // dados carregados do JSON
 
-// ─── STATE ────────────────────────────────────────────────────────
-let S = {
-  guesses: {},
-  results: {},
-  participants: [...DEFAULT_PARTICIPANTS],
-  games: [...DEFAULT_GAMES],
-  adminUnlocked: false,
-  currentView: 'palpitar',
-  selectedParticipant: '',
-  pendingGuesses: {},
-  ready: false
-};
-
-// ─── FIREBASE LISTENERS ───────────────────────────────────────────
-function initFirebase() {
-  setSyncStatus('conectando...','#FAC775');
-
-  // Listener em tempo real para todo o estado
-  onValue(ref(db, 'bolao'), (snapshot) => {
-    const data = snapshot.val();
-    if (data) {
-      if (data.guesses) S.guesses = data.guesses;
-      if (data.results) S.results = data.results;
-      if (data.participants) S.participants = data.participants;
-      if (data.games) S.games = data.games;
-    } else {
-      // Primeiro acesso — inicializa dados no Firebase
-      set(ref(db, 'bolao'), {
-        participants: DEFAULT_PARTICIPANTS,
-        games: DEFAULT_GAMES,
-        guesses: {},
-        results: {}
-      });
-    }
-    S.ready = true;
-    setSyncStatus('🟢 ao vivo','#2ECC71');
-    renderAll();
-  }, (error) => {
-    setSyncStatus('⚠️ sem conexão','#E74C3C');
-    S.ready = true;
-    renderAll();
-  });
-}
-
-async function fbSet(path, val) {
-  setSyncStatus('salvando...','#FAC775');
+// ── LOAD ───────────────────────────────────────────────────────────
+async function loadData() {
+  setSyncStatus('carregando...','#fbbf24');
   try {
-    await set(ref(db, path), val);
-    setSyncStatus('🟢 ao vivo','#2ECC71');
+    const r = await fetch(DATA_URL + '?t=' + Date.now());
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    D = await r.json();
+    setSyncStatus('✓ atualizado','#1a6b3c');
+    renderAll();
   } catch(e) {
-    setSyncStatus('⚠️ erro ao salvar','#E74C3C');
-    toast('Erro ao salvar. Verifique a conexão.','#E74C3C');
+    setSyncStatus('⚠ erro ao carregar','#dc2626');
+    document.querySelectorAll('.view.active').forEach(el=>{
+      el.innerHTML = `<div class="loading" style="color:#dc2626">
+        ⚠️ Não foi possível carregar os dados.<br><br>
+        <small>Verifique se o arquivo dados.json está no repositório.</small><br><br>
+        <button class="btn btn-green" onclick="loadData()">Tentar novamente</button>
+      </div>`;
+    });
   }
 }
 
@@ -206,7 +162,7 @@ function setSyncStatus(txt, color){
   document.getElementById('sync-dot').style.background = color;
 }
 
-function toast(msg, color='#2ECC71'){
+function toast(msg, color='#1a6b3c'){
   const t = document.getElementById('toast');
   t.textContent = msg;
   t.style.background = color;
@@ -214,377 +170,300 @@ function toast(msg, color='#2ECC71'){
   setTimeout(()=>t.classList.remove('show'), 2800);
 }
 
-// ─── NAVEGAÇÃO ────────────────────────────────────────────────────
+// ── NAVEGAÇÃO ──────────────────────────────────────────────────────
 window.switchView = function(v) {
-  S.currentView = v;
   document.querySelectorAll('.tab').forEach((t,i)=>{
-    t.classList.toggle('active',['palpitar','ver','ranking','admin'][i]===v);
+    t.classList.toggle('active',['palpites','porpart','resultados','ranking'][i]===v);
   });
   document.querySelectorAll('.view').forEach(el=>el.classList.remove('active'));
   document.getElementById('view-'+v).classList.add('active');
-  renderView(v);
+  if(D) renderView(v);
 };
 
-function renderAll(){ ['palpitar','ver','ranking','admin'].forEach(v=>renderView(v)); }
+function renderAll(){
+  ['palpites','porpart','resultados','ranking'].forEach(v=>renderView(v));
+}
+
 function renderView(v){
-  if(!S.ready){
-    document.getElementById('view-'+v).innerHTML='<div class="loading"><span class="spinner"></span>Conectando ao Firebase...</div>';
-    return;
-  }
-  if(v==='palpitar') renderPalpitar();
-  else if(v==='ver') renderVer();
+  if(!D) return;
+  if(v==='palpites') renderPalpites();
+  else if(v==='porpart') renderPorPart();
+  else if(v==='resultados') renderResultados();
   else if(v==='ranking') renderRanking();
-  else if(v==='admin') renderAdmin();
 }
 
-// ─── PONTUAÇÃO ────────────────────────────────────────────────────
-function calcPoints(pred, actual){
-  if(!pred || actual.h==null || actual.a==null) return null;
-  if(pred.h==='' || pred.a==='' || pred.h==null || pred.a==null) return null;
-  const ph=Number(pred.h), pa=Number(pred.a), rh=Number(actual.h), ra=Number(actual.a);
-  if(ph===rh && pa===ra) return 3;
-  const res=(x,y)=>x>y?'h':x<y?'a':'d';
-  if(res(ph,pa)===res(rh,ra)) return 1;
-  return 0;
+// ── HELPERS ────────────────────────────────────────────────────────
+function ptClass(pts){
+  if(pts===3) return 'chip-exact';
+  if(pts===1) return 'chip-right';
+  if(pts===0) return 'chip-wrong';
+  return 'chip-empty';
 }
-function getResult(g){ return S.results[g.id] || {h:null,a:null}; }
+function ptIcon(pts){
+  if(pts===3) return '🎯';
+  if(pts===1) return '✓';
+  if(pts===0) return '✗';
+  return '—';
+}
 
-// ─── ABA PALPITAR ─────────────────────────────────────────────────
-function renderPalpitar(){
-  const el = document.getElementById('view-palpitar');
-  let html = '';
+// ── ABA PALPITES POR JOGO ──────────────────────────────────────────
+function renderPalpites(){
+  const el = document.getElementById('view-palpites');
+  if(!D || !D.jogos) { el.innerHTML='<div class="loading">Sem dados.</div>'; return; }
 
-  if(!S.selectedParticipant){
-    html += `<div class="notice">👋 Selecione seu nome para registrar seus palpites. Cada jogo só pode ser palpitado <strong>uma vez</strong> — após enviar, fica bloqueado.</div>`;
-    html += `<div class="section-label"><span></span>Quem é você?<span></span></div>`;
-    html += `<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px">`;
-    S.participants.forEach(p=>{
-      const done = Object.keys(S.guesses[p]||{}).length;
-      const total = S.games.length;
-      html += `<div class="participant-chip" onclick="selectPart('${p.replace(/'/g,"\\'")}')">
-        <div class="avatar" style="background:${avatarColor(p)};width:24px;height:24px;font-size:10px">${ini(p)}</div>
-        ${p}
-        ${done>0?`<span style="font-size:10px;background:rgba(255,215,0,0.15);color:#FFD700;border-radius:10px;padding:1px 7px">${done}/${total}</span>`:''}
-      </div>`;
-    });
-    html += '</div>';
-  } else {
-    const p = S.selectedParticipant;
-    const pending = S.pendingGuesses;
-    const savedCount = Object.keys(S.guesses[p]||{}).length;
-    const total = S.games.length;
+  const filterVal = document.getElementById('filter-rodada')?.value || '';
+  const rodadas = [...new Set(D.jogos.map(g=>g.rodada||'R1'))];
 
-    html += `<div style="display:flex;align-items:center;gap:10px;margin-bottom:18px;flex-wrap:wrap">
-      <div class="avatar" style="background:${avatarColor(p)};width:38px;height:38px;font-size:16px">${ini(p)}</div>
-      <div>
-        <div style="font-size:16px;font-weight:700;color:#FFD700">${p}</div>
-        <div style="font-size:11px;color:rgba(255,255,255,0.4)">${savedCount} de ${total} palpites enviados</div>
+  let html = `<div style="display:flex;align-items:center;gap:10px;margin-bottom:16px;flex-wrap:wrap">
+    <select id="filter-rodada" onchange="renderPalpites()" style="flex:1;min-width:140px">
+      <option value="">Todas as rodadas</option>
+      ${rodadas.map(r=>`<option value="${r}" ${filterVal===r?'selected':''}>${r}</option>`).join('')}
+    </select>
+    <div style="font-size:12px;color:#718096;margin-left:auto">
+      <span style="display:inline-flex;align-items:center;gap:3px;margin-right:8px"><span style="width:10px;height:10px;border-radius:50%;background:#d4edda;border:1px solid #c3e6cb;display:inline-block"></span>Exato +3</span>
+      <span style="display:inline-flex;align-items:center;gap:3px;margin-right:8px"><span style="width:10px;height:10px;border-radius:50%;background:#d1ecf1;border:1px solid #bee5eb;display:inline-block"></span>Certo +1</span>
+      <span style="display:inline-flex;align-items:center;gap:3px"><span style="width:10px;height:10px;border-radius:50%;background:#f8f9fa;border:1px solid #dee2e6;display:inline-block"></span>Errou</span>
+    </div>
+  </div>`;
+
+  const jogosFiltrados = filterVal ? D.jogos.filter(g=>(g.rodada||'R1')===filterVal) : D.jogos;
+
+  jogosFiltrados.forEach(g=>{
+    const hasResult = g.gols_1_oficial !== null && g.gols_1_oficial !== undefined && g.gols_1_oficial !== '';
+    const resLabel = hasResult ? `<span class="badge badge-green">⚽ ${g.gols_1_oficial} × ${g.gols_2_oficial}</span>` : `<span class="badge badge-gray">Aguardando</span>`;
+
+    html += `<div class="card">
+      <div class="card-header">
+        <div class="team-cell" style="font-size:15px">${f(g.selecao_01)} ${g.selecao_01} <span style="color:#a0aec0;font-weight:400;margin:0 4px">×</span> ${g.selecao_02} ${f(g.selecao_02)}</div>
+        <div style="display:flex;align-items:center;gap:8px">${resLabel}<span class="badge badge-gray" style="font-size:10px">${g.rodada||'R1'}</span></div>
       </div>
-      <button class="btn btn-ghost" style="margin-left:auto;font-size:12px;padding:7px 14px" onclick="selectPart('')">← Trocar nome</button>
-    </div>`;
+      <div style="display:flex;flex-wrap:wrap;gap:4px">`;
 
-    const phases = [...new Set(S.games.map(g=>g.phase))];
-    phases.forEach(phase=>{
-      const phaseGames = S.games.filter(g=>g.phase===phase);
-      html += `<div class="section-label"><span></span>${phase}<span></span></div>`;
-      phaseGames.forEach(g=>{
-        const existing = S.guesses[p]?.[g.id];
-        const isLocked = !!(existing && existing.h!=null && existing.a!=null);
-        const actual = getResult(g);
-        const hasResult = actual.h != null;
-        const pts = hasResult && isLocked ? calcPoints(existing, actual) : null;
-        const cur = pending[g.id] || (isLocked ? {h:existing.h,a:existing.a} : {h:'',a:''});
-        const ptColor = pts===3?'#2ECC71':pts===1?'#74B9FF':'rgba(255,255,255,0.3)';
-        const ptLabel = pts===3?'🎯 +3':pts===1?'✓ +1':'✗ 0';
-
-        html += `<div class="game-row">
-          <div style="display:flex;align-items:center;gap:8px;flex:1;min-width:0;flex-wrap:wrap">
-            ${isLocked
-              ? `<div style="width:52px;height:46px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:10px;color:rgba(255,215,0,0.5)">${cur.h}</div>`
-              : `<input class="score-input" type="number" min="0" max="20" value="${cur.h}" placeholder="–" oninput="setPend(${g.id},'h',this.value)">`
-            }
-            <div style="flex:1;text-align:center;min-width:100px">
-              <div style="font-size:13px;font-weight:600;color:#fff">${f(g.home)} ${g.home}</div>
-              <div style="font-size:11px;color:rgba(255,255,255,0.3);margin:2px 0">×</div>
-              <div style="font-size:13px;font-weight:600;color:#fff">${g.away} ${f(g.away)}</div>
-            </div>
-            ${isLocked
-              ? `<div style="width:52px;height:46px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:10px;color:rgba(255,215,0,0.5)">${cur.a}</div>`
-              : `<input class="score-input" type="number" min="0" max="20" value="${cur.a}" placeholder="–" oninput="setPend(${g.id},'a',this.value)">`
-            }
-          </div>
-          <div style="display:flex;flex-direction:column;align-items:center;gap:4px;min-width:76px;flex-shrink:0">
-            ${isLocked
-              ? `<span class="locked-badge">🔒 enviado</span>`
-              : `<button class="btn btn-gold" style="padding:7px 14px;font-size:12px;white-space:nowrap" onclick="savePred(${g.id})">Enviar</button>`
-            }
-            ${hasResult ? `<div style="font-size:11px;color:#FFD700;font-weight:700">Res: ${actual.h}×${actual.a}</div>` : ''}
-            ${pts!==null ? `<div style="font-size:12px;font-weight:800;color:${ptColor}">${ptLabel}</div>` : ''}
-          </div>
-        </div>`;
-      });
+    (D.participantes || []).forEach(p=>{
+      const pal = (D.palpites||[]).find(x=>x.participante===p && Number(x.id_jogo)===Number(g.id_jogo));
+      if(!pal){ html += `<span class="palpite-chip chip-empty"><span style="width:18px;height:18px;border-radius:50%;background:${avatarColor(p)};display:inline-flex;align-items:center;justify-content:center;font-size:8px;font-weight:800;color:#fff">${ini(p)}</span>${p}: —</span>`; return; }
+      const pts = hasResult ? Number(pal.pontos) : null;
+      html += `<span class="palpite-chip ${ptClass(pts)}">
+        <span style="width:18px;height:18px;border-radius:50%;background:${avatarColor(p)};display:inline-flex;align-items:center;justify-content:center;font-size:8px;font-weight:800;color:#fff">${ini(p)}</span>
+        ${p}: ${pal.gols_1}×${pal.gols_2}
+        ${pts!==null?`<span>${ptIcon(pts)}</span>`:''}
+      </span>`;
     });
-  }
+
+    html += `</div></div>`;
+  });
+
   el.innerHTML = html;
 }
 
-window.setPend = function(gid, side, val){
-  if(!S.pendingGuesses[gid]) S.pendingGuesses[gid]={h:'',a:''};
-  S.pendingGuesses[gid][side] = val;
-};
+// ── ABA POR PARTICIPANTE ───────────────────────────────────────────
+window.renderPorPart = function() {
+  const el = document.getElementById('view-porpart');
+  if(!D) return;
 
-window.selectPart = function(p){
-  S.selectedParticipant = p;
-  S.pendingGuesses = {};
-  renderPalpitar();
-};
-
-window.savePred = async function(gid){
-  const p = S.selectedParticipant;
-  if(!p) return;
-  const pred = S.pendingGuesses[gid];
-  if(!pred || pred.h==='' || pred.a==='' || pred.h==null || pred.a==null){
-    toast('Preencha os dois placares!','#E74C3C'); return;
-  }
-  if(!S.guesses[p]) S.guesses[p]={};
-  S.guesses[p][gid] = {h:Number(pred.h), a:Number(pred.a)};
-  delete S.pendingGuesses[gid];
-  await fbSet(`bolao/guesses/${p}/${gid}`, {h:Number(pred.h), a:Number(pred.a)});
-  toast('✓ Palpite enviado e bloqueado!');
-  renderPalpitar();
-};
-
-// ─── ABA VER PALPITES ─────────────────────────────────────────────
-function renderVer(){
-  const el = document.getElementById('view-ver');
   const filterVal = document.getElementById('filter-part')?.value || '';
 
   let html = `<div style="margin-bottom:16px">
-    <select id="filter-part" onchange="renderVer()" style="width:100%">
-      <option value="">Todos os participantes</option>
-      ${S.participants.map(p=>`<option value="${p}" ${filterVal===p?'selected':''}>${p}</option>`).join('')}
+    <select id="filter-part" onchange="renderPorPart()" style="width:100%">
+      <option value="">Selecione um participante...</option>
+      ${(D.participantes||[]).map(p=>`<option value="${p}" ${filterVal===p?'selected':''}>${p}</option>`).join('')}
     </select>
   </div>`;
 
-  const parts = filterVal ? [filterVal] : S.participants;
-
-  S.games.forEach(g=>{
-    const actual = getResult(g);
-    const hasResult = actual.h != null;
-    html += `<div class="card" style="margin-bottom:14px">
-      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;flex-wrap:wrap;gap:6px">
-        <div style="font-size:14px;font-weight:700">${f(g.home)} ${g.home} × ${g.away} ${f(g.away)}</div>
-        ${hasResult
-          ? `<span class="pill pill-gold">⚽ ${actual.h} × ${actual.a}</span>`
-          : `<span style="font-size:11px;color:rgba(255,255,255,0.3);font-style:italic">Aguardando resultado</span>`}
-      </div>
-      <div style="display:flex;flex-wrap:wrap;gap:6px">
-        ${parts.map(p=>{
-          const pred = S.guesses[p]?.[g.id];
-          const hasp = pred && pred.h!=null && pred.a!=null;
-          const pts = hasResult && hasp ? calcPoints(pred, actual) : null;
-          const cls = pts===3?'pill-green':pts===1?'pill-blue':'pill-dim';
-          return `<div class="pill ${cls}">
-            <div class="avatar" style="background:${avatarColor(p)};width:18px;height:18px;font-size:8px">${ini(p)}</div>
-            <span style="font-weight:600">${p}</span>
-            ${hasp?`<span>${pred.h}×${pred.a}</span>`:`<span style="opacity:.4">—</span>`}
-            ${pts!==null?`<span>${pts===3?'🎯':pts===1?'✓':'✗'}</span>`:''}
-          </div>`;
-        }).join('')}
-      </div>
-    </div>`;
-  });
-
-  el.innerHTML = html;
-}
-
-window.renderVer = renderVer;
-
-// ─── ABA RANKING ──────────────────────────────────────────────────
-function renderRanking(){
-  const el = document.getElementById('view-ranking');
-  const gamesWithResults = S.games.filter(g=>getResult(g).h!=null);
-
-  const rankings = S.participants.map(p=>{
-    let total=0,exatos=0,resultados=0,pendentes=0;
-    S.games.forEach(g=>{
-      const actual=getResult(g);
-      if(actual.h==null){pendentes++;return;}
-      const pred=S.guesses[p]?.[g.id];
-      const pts=calcPoints(pred,actual);
-      if(pts===null){pendentes++;return;}
-      total+=pts; if(pts===3)exatos++; if(pts===1)resultados++;
+  if(!filterVal){
+    html += `<div class="notice">👆 Selecione um participante para ver todos os palpites dele.</div>`;
+    // mostra grade de todos
+    html += `<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px">`;
+    (D.participantes||[]).forEach(p=>{
+      const total = (D.ranking||[]).find(r=>r.participante===p);
+      html += `<div class="part-chip" onclick="document.getElementById('filter-part').value='${p.replace(/'/g,"\\'")}';renderPorPart()">
+        <div class="avatar" style="background:${avatarColor(p)};width:26px;height:26px;font-size:11px">${ini(p)}</div>
+        ${p}
+        ${total?`<span class="badge badge-green" style="font-size:10px">${total.pontos}pts</span>`:''}
+      </div>`;
     });
-    return {name:p,total,exatos,resultados,pendentes};
-  }).sort((a,b)=>b.total-a.total||b.exatos-a.exatos);
-
-  const maxPts = rankings[0]?.total||1;
-  const medals=['🥇','🥈','🥉'];
-  const rowClass=['gold','silver','bronze'];
-  const barColors=['#FFD700','#C0C0C0','#CD7F32'];
-
-  let html = `<div class="stat-grid">
-    <div class="stat-card"><div class="stat-val">${gamesWithResults.length}</div><div class="stat-lbl">Jogos apurados</div></div>
-    <div class="stat-card"><div class="stat-val">${S.games.length - gamesWithResults.length}</div><div class="stat-lbl">Aguardando</div></div>
-    <div class="stat-card"><div class="stat-val">${S.participants.length}</div><div class="stat-lbl">Participantes</div></div>
-  </div>`;
-
-  if(gamesWithResults.length===0){
-    html += `<div style="text-align:center;padding:40px;color:rgba(255,255,255,0.3);font-size:14px">Nenhum resultado ainda.<br>Aguardando o admin registrar os placares.</div>`;
-  }
-
-  rankings.forEach((r,i)=>{
-    const cls = i<3?rowClass[i]:'normal';
-    const medal = i<3?`<span style="font-size:22px">${medals[i]}</span>`:`<span style="font-size:13px;color:rgba(255,255,255,0.35);font-weight:700">#${i+1}</span>`;
-    const pct = maxPts>0?(r.total/maxPts*100).toFixed(0):0;
-    const barColor = i<3?barColors[i]:'rgba(52,152,219,0.8)';
-
-    html += `<div class="rank-row ${cls}">
-      <div style="width:32px;text-align:center;flex-shrink:0">${medal}</div>
-      <div class="avatar" style="background:${avatarColor(r.name)}">${ini(r.name)}</div>
-      <div style="flex:1;min-width:0">
-        <div style="display:flex;align-items:baseline;justify-content:space-between;gap:8px">
-          <span style="font-size:15px;font-weight:700;color:${i===0?'#FFD700':'#fff'}">${r.name}</span>
-          <span style="font-size:22px;font-weight:800;color:${i===0?'#FFD700':'#fff'};flex-shrink:0">${r.total}<span style="font-size:12px;font-weight:400;color:rgba(255,255,255,0.4)"> pts</span></span>
-        </div>
-        <div class="bar-bg" style="margin-top:5px"><div class="bar-fill" style="width:${pct}%;background:${barColor}"></div></div>
-        <div style="display:flex;gap:14px;margin-top:5px;font-size:11px;color:rgba(255,255,255,0.45)">
-          <span>🎯 ${r.exatos} exatos</span>
-          <span>✓ ${r.resultados} certos</span>
-          ${r.pendentes>0?`<span>⏳ ${r.pendentes} pend.</span>`:''}
-        </div>
-      </div>
-    </div>`;
-  });
-
-  el.innerHTML = html;
-}
-
-// ─── ABA ADMIN ────────────────────────────────────────────────────
-function renderAdmin(){
-  const el = document.getElementById('view-admin');
-
-  if(!S.adminUnlocked){
-    el.innerHTML = `<div style="max-width:340px;margin:60px auto;text-align:center">
-      <div style="font-size:42px;margin-bottom:12px">🔐</div>
-      <div style="font-size:18px;font-weight:700;color:#FFD700;margin-bottom:20px">Área do Administrador</div>
-      <input type="password" id="pw-input" placeholder="Senha admin" style="width:100%;margin-bottom:12px;padding:12px 16px;font-size:15px;border-radius:10px;text-align:center"
-        onkeydown="if(event.key==='Enter')doLogin()">
-      <button class="btn btn-gold" style="width:100%;padding:12px;font-size:15px;border-radius:10px" onclick="doLogin()">Entrar</button>
-      <div style="margin-top:14px;font-size:12px;color:rgba(255,255,255,0.25)">Senha padrão: admin123</div>
-    </div>`;
+    html += '</div>';
+    el.innerHTML = html;
     return;
   }
 
-  const phases = [...new Set(S.games.map(g=>g.phase))];
+  const palpitesP = (D.palpites||[]).filter(x=>x.participante===filterVal);
+  const rankP = (D.ranking||[]).find(r=>r.participante===filterVal);
 
-  let html = `<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;flex-wrap:wrap;gap:10px">
-    <div style="font-size:16px;font-weight:700;color:#FFD700">⚙️ Painel Admin</div>
-    <button class="btn btn-ghost" style="font-size:12px;padding:7px 14px" onclick="doLogout()">Sair</button>
-  </div>
-
-  <div class="card" style="margin-bottom:16px">
-    <div style="font-size:12px;color:#FFD700;font-weight:700;margin-bottom:10px">👤 Adicionar Participante</div>
-    <div style="display:flex;gap:8px">
-      <input type="text" id="new-part" placeholder="Nome do participante" style="flex:1" onkeydown="if(event.key==='Enter')addPart()">
-      <button class="btn btn-gold" onclick="addPart()">Adicionar</button>
+  html += `<div style="display:flex;align-items:center;gap:12px;padding:14px 16px;background:#fff;border-radius:12px;border:1.5px solid #b2dfcc;margin-bottom:16px;flex-wrap:wrap">
+    <div class="avatar" style="background:${avatarColor(filterVal)};width:44px;height:44px;font-size:18px">${ini(filterVal)}</div>
+    <div>
+      <div style="font-size:17px;font-weight:800;color:#1a6b3c">${filterVal}</div>
+      ${rankP?`<div style="font-size:12px;color:#718096">${rankP.pontos} pontos · ${rankP.placares_exatos} exatos · ${rankP.posicao}º lugar</div>`:''}
     </div>
-  </div>
-
-  <div class="card" style="margin-bottom:20px">
-    <div style="font-size:12px;color:#FFD700;font-weight:700;margin-bottom:10px">⚽ Adicionar Novo Jogo</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap">
-      <input type="text" id="new-home" placeholder="Time da casa" style="flex:1;min-width:120px">
-      <input type="text" id="new-away" placeholder="Time visitante" style="flex:1;min-width:120px">
-      <input type="text" id="new-phase" placeholder="Fase (ex: Oitavas)" style="flex:1;min-width:120px">
-      <button class="btn btn-gold" onclick="addGame()">Adicionar</button>
+    <div style="margin-left:auto;display:flex;gap:6px">
+      <span class="badge badge-green">🎯 ${palpitesP.filter(x=>Number(x.pontos)===3).length} exatos</span>
+      <span class="badge badge-blue">✓ ${palpitesP.filter(x=>Number(x.pontos)===1).length} certos</span>
+      <span class="badge badge-gray">✗ ${palpitesP.filter(x=>Number(x.pontos)===0).length} erros</span>
     </div>
-  </div>
-
-  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;flex-wrap:wrap;gap:8px">
-    <div style="font-size:13px;font-weight:700">📋 Resultados dos Jogos</div>
-    <button class="btn btn-gold" onclick="saveResults()">💾 Salvar Resultados</button>
   </div>`;
 
-  phases.forEach(phase=>{
-    html += `<div class="section-label"><span></span>${phase}<span></span></div>`;
-    S.games.filter(g=>g.phase===phase).forEach(g=>{
-      const actual = getResult(g);
-      html += `<div class="game-row">
-        <div style="flex:1;font-size:13px;font-weight:600;min-width:0">${f(g.home)} ${g.home} × ${g.away} ${f(g.away)}</div>
-        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0">
-          <input type="number" min="0" max="20" value="${actual.h!=null?actual.h:''}" placeholder="–"
-            id="res-${g.id}-h"
-            style="width:50px;height:42px;text-align:center;font-size:18px;font-weight:700;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.15);border-radius:8px;color:#FFD700;outline:none">
-          <span style="color:rgba(255,255,255,0.4);font-size:16px">×</span>
-          <input type="number" min="0" max="20" value="${actual.a!=null?actual.a:''}" placeholder="–"
-            id="res-${g.id}-a"
-            style="width:50px;height:42px;text-align:center;font-size:18px;font-weight:700;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.15);border-radius:8px;color:#FFD700;outline:none">
+  const rodadas = [...new Set((D.jogos||[]).map(g=>g.rodada||'R1'))];
+  rodadas.forEach(rodada=>{
+    const jogosR = (D.jogos||[]).filter(g=>(g.rodada||'R1')===rodada);
+    html += `<div class="section-label"><span></span>${rodada}<span></span></div>`;
+    jogosR.forEach(g=>{
+      const pal = palpitesP.find(x=>Number(x.id_jogo)===Number(g.id_jogo));
+      const hasResult = g.gols_1_oficial !== null && g.gols_1_oficial !== undefined && g.gols_1_oficial !== '';
+      const pts = (pal && hasResult) ? Number(pal.pontos) : null;
+      const ptColors = {3:'#d4edda',1:'#d1ecf1',0:'#f8f9fa'};
+      const ptBorder = {3:'#c3e6cb',1:'#bee5eb',0:'#dee2e6'};
+
+      html += `<div class="game-row" style="${pts!==null?`background:${ptColors[pts]};border-color:${ptBorder[pts]}`:''}">
+        <div style="flex:1;min-width:0">
+          <div style="font-size:13px;font-weight:700;color:#2d3748">${f(g.selecao_01)} ${g.selecao_01} × ${g.selecao_02} ${f(g.selecao_02)}</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:12px;flex-shrink:0">
+          ${pal
+            ? `<div style="text-align:center"><div style="font-size:11px;color:#718096;margin-bottom:2px">Palpite</div><div style="font-size:16px;font-weight:800;color:#1a6b3c">${pal.gols_1} × ${pal.gols_2}</div></div>`
+            : `<div style="font-size:12px;color:#a0aec0;font-style:italic">Não palpitou</div>`
+          }
+          ${hasResult
+            ? `<div style="text-align:center"><div style="font-size:11px;color:#718096;margin-bottom:2px">Resultado</div><div style="font-size:16px;font-weight:800;color:#2d3748">${g.gols_1_oficial} × ${g.gols_2_oficial}</div></div>`
+            : `<span class="badge badge-gray" style="font-size:10px">Aguardando</span>`
+          }
+          ${pts!==null
+            ? `<div style="text-align:center;min-width:40px"><div style="font-size:18px">${ptIcon(pts)}</div><div style="font-size:13px;font-weight:800;color:${pts===3?'#155724':pts===1?'#0c5460':'#6c757d'}">+${pts}</div></div>`
+            : ''
+          }
         </div>
       </div>`;
     });
   });
 
-  html += `<div style="text-align:center;margin-top:16px;padding-bottom:32px">
-    <button class="btn btn-gold" style="padding:13px 40px;font-size:15px;border-radius:24px" onclick="saveResults()">💾 Salvar Todos os Resultados</button>
+  el.innerHTML = html;
+};
+
+// ── ABA RESULTADOS ─────────────────────────────────────────────────
+function renderResultados(){
+  const el = document.getElementById('view-resultados');
+  if(!D || !D.jogos) { el.innerHTML='<div class="loading">Sem dados.</div>'; return; }
+
+  const jogosComRes = D.jogos.filter(g=>g.gols_1_oficial!==null && g.gols_1_oficial!==undefined && g.gols_1_oficial!=='');
+  const jogosSemRes = D.jogos.filter(g=>!jogosComRes.includes(g));
+
+  let html = `<div class="stat-grid">
+    <div class="stat-card"><div class="stat-val">${jogosComRes.length}</div><div class="stat-lbl">Apurados</div></div>
+    <div class="stat-card"><div class="stat-val">${jogosSemRes.length}</div><div class="stat-lbl">Aguardando</div></div>
+    <div class="stat-card"><div class="stat-val">${D.jogos.length}</div><div class="stat-lbl">Total</div></div>
   </div>`;
+
+  if(jogosComRes.length > 0){
+    html += `<div class="section-label"><span></span>✅ Resultados Apurados<span></span></div>`;
+    jogosComRes.forEach(g=>{
+      const res = Number(g.gols_1_oficial)>Number(g.gols_2_oficial)?'home':Number(g.gols_2_oficial)>Number(g.gols_1_oficial)?'away':'draw';
+      html += `<div class="game-row">
+        <div style="flex:1;display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap">
+          <div class="team-cell" style="${res==='home'?'color:#1a6b3c;font-weight:800':res==='draw'?'':'color:#718096'}">${f(g.selecao_01)} ${g.selecao_01}</div>
+          <div style="text-align:center;flex-shrink:0">
+            <div style="font-size:22px;font-weight:800;color:#1a6b3c;letter-spacing:4px">${g.gols_1_oficial} — ${g.gols_2_oficial}</div>
+            <div style="font-size:10px;color:#718096;text-transform:uppercase;letter-spacing:1px">${g.rodada||'R1'}</div>
+          </div>
+          <div class="team-cell" style="justify-content:flex-end;${res==='away'?'color:#1a6b3c;font-weight:800':res==='draw'?'':'color:#718096'}">${g.selecao_02} ${f(g.selecao_02)}</div>
+        </div>
+      </div>`;
+    });
+  }
+
+  if(jogosSemRes.length > 0){
+    html += `<div class="section-label"><span></span>⏳ Aguardando Resultado<span></span></div>`;
+    jogosSemRes.forEach(g=>{
+      html += `<div class="game-row" style="opacity:.7">
+        <div class="team-cell">${f(g.selecao_01)} ${g.selecao_01}</div>
+        <div style="flex:1;text-align:center;color:#a0aec0;font-size:13px">× <span style="font-size:10px;background:#f1f3f5;border-radius:10px;padding:2px 8px">${g.rodada||'R1'}</span></div>
+        <div class="team-cell" style="justify-content:flex-end">${g.selecao_02} ${f(g.selecao_02)}</div>
+      </div>`;
+    });
+  }
 
   el.innerHTML = html;
 }
 
-window.doLogin = function(){
-  const pw = document.getElementById('pw-input').value;
-  if(pw===ADMIN_PW){S.adminUnlocked=true;renderAdmin();}
-  else toast('Senha incorreta!','#E74C3C');
-};
-window.doLogout = function(){S.adminUnlocked=false;renderAdmin();};
+// ── ABA RANKING ────────────────────────────────────────────────────
+function renderRanking(){
+  const el = document.getElementById('view-ranking');
+  if(!D || !D.ranking) { el.innerHTML='<div class="loading">Sem dados.</div>'; return; }
 
-window.addPart = async function(){
-  const input = document.getElementById('new-part');
-  const name = input.value.trim();
-  if(!name){return;}
-  if(S.participants.includes(name)){toast('Participante já existe!','#E74C3C');return;}
-  S.participants.push(name);
-  input.value='';
-  await fbSet('bolao/participants', S.participants);
-  toast(`✓ ${name} adicionado!`);
-  renderAdmin();
-  renderPalpitar();
-};
+  const ranking = D.ranking;
+  const top3 = ranking.slice(0,3);
+  const maxPts = ranking[0]?.pontos || 1;
 
-window.addGame = async function(){
-  const home = document.getElementById('new-home').value.trim();
-  const away = document.getElementById('new-away').value.trim();
-  const phase = document.getElementById('new-phase').value.trim() || 'Fase de Grupos';
-  if(!home||!away){toast('Preencha os dois times!','#E74C3C');return;}
-  const id = Math.max(...S.games.map(g=>g.id),0)+1;
-  S.games.push({id,home,away,phase});
-  document.getElementById('new-home').value='';
-  document.getElementById('new-away').value='';
-  await fbSet('bolao/games', S.games);
-  toast(`✓ ${home} × ${away} adicionado!`);
-  renderAdmin();
-  renderPalpitar();
-};
+  const medals = ['🥇','🥈','🥉'];
+  const rowClass = ['gold','silver','bronze'];
+  const barColors = ['#f6d860','#ced4da','#f4a261'];
+  const podiumH = [100,75,60];
+  const podiumBg = ['#f6d860','#ced4da','#f4a261'];
+  const podiumOrder = [1,0,2]; // 2nd, 1st, 3rd
 
-window.saveResults = async function(){
-  S.games.forEach(g=>{
-    const hEl=document.getElementById(`res-${g.id}-h`);
-    const aEl=document.getElementById(`res-${g.id}-a`);
-    if(!hEl||!aEl)return;
-    if(hEl.value!==''&&aEl.value!==''){
-      S.results[g.id]={h:Number(hEl.value),a:Number(aEl.value)};
-    }
+  // PÓDIO
+  let podHtml = `<div class="podium">`;
+  podiumOrder.forEach(idx=>{
+    const r = top3[idx];
+    if(!r) return;
+    podHtml += `<div class="podium-item">
+      <div class="avatar" style="background:${avatarColor(r.participante)};width:42px;height:42px;font-size:17px;border:3px solid ${podiumBg[idx]};box-shadow:0 2px 8px rgba(0,0,0,0.15)">${ini(r.participante)}</div>
+      <div class="podium-name">${r.participante}</div>
+      <div class="podium-pts">${r.pontos}pts</div>
+      <div class="podium-block" style="height:${podiumH[idx]}px;background:${podiumBg[idx]};color:${idx===0?'#92400e':'#fff'}">${medals[idx]}</div>
+    </div>`;
   });
-  await fbSet('bolao/results', S.results);
-  toast('✓ Resultados salvos! Ranking atualizado.');
-  renderPalpitar();
-  renderVer();
-  renderRanking();
-};
+  podHtml += `</div>`;
 
-// ─── INIT ─────────────────────────────────────────────────────────
-initFirebase();
+  // STATS
+  let statsHtml = `<div class="stat-grid">
+    <div class="stat-card"><div class="stat-val">${D.jogos?.filter(g=>g.gols_1_oficial!==null&&g.gols_1_oficial!==''&&g.gols_1_oficial!==undefined).length||0}</div><div class="stat-lbl">Jogos apurados</div></div>
+    <div class="stat-card"><div class="stat-val">${ranking.length}</div><div class="stat-lbl">Participantes</div></div>
+    <div class="stat-card"><div class="stat-val">${ranking[0]?.pontos||0}</div><div class="stat-lbl">Maior pontuação</div></div>
+  </div>`;
+
+  // LISTA
+  let listHtml = `<div class="section-label"><span></span>Classificação Geral<span></span></div>`;
+  ranking.forEach((r,i)=>{
+    const cls = i<3?rowClass[i]:'';
+    const medal = i<3?`<span style="font-size:20px">${medals[i]}</span>`:`<span style="font-size:13px;color:#718096;font-weight:700">#${i+1}</span>`;
+    const pct = maxPts>0?(Number(r.pontos)/maxPts*100).toFixed(0):0;
+    const barColor = i<3?barColors[i]:'#a8d5bc';
+
+    listHtml += `<div class="rank-row ${cls}">
+      <div style="width:32px;text-align:center;flex-shrink:0">${medal}</div>
+      <div class="avatar" style="background:${avatarColor(r.participante)}">${ini(r.participante)}</div>
+      <div style="flex:1;min-width:0">
+        <div style="display:flex;align-items:baseline;justify-content:space-between;gap:8px">
+          <span style="font-size:15px;font-weight:700;color:#1a3d2b">${r.participante}</span>
+          <span style="font-size:22px;font-weight:800;color:#1a6b3c;flex-shrink:0">${r.pontos}<span style="font-size:12px;font-weight:400;color:#718096"> pts</span></span>
+        </div>
+        <div class="bar-bg" style="margin:5px 0"><div class="bar-fill" style="width:${pct}%;background:${barColor}"></div></div>
+        <div style="display:flex;gap:12px;font-size:11px;color:#718096">
+          <span>🎯 ${r.placares_exatos} exatos</span>
+          <span>📊 ${r.posicao}º lugar</span>
+        </div>
+      </div>
+    </div>`;
+  });
+
+  // REGRAS
+  let regrasHtml = `<div class="section-label"><span></span>Regras do Bolão<span></span></div>
+  <div class="rules-box">
+    <ul>
+      <li>🎯 <strong>Placar exato</strong> = 3 pontos</li>
+      <li>✓ <strong>Acertar o vencedor ou empate</strong> = 1 ponto</li>
+      <li>✗ <strong>Errar o resultado</strong> = 0 pontos</li>
+      <li>⚠️ Vale o placar do tempo regulamentar</li>
+    </ul>
+  </div>`;
+
+  el.innerHTML = podHtml + statsHtml + listHtml + regrasHtml;
+}
+
+// ── INIT ───────────────────────────────────────────────────────────
+loadData();
+// Recarrega a cada 5 minutos
+setInterval(loadData, 300000);
 </script>
 </body>
 </html>
