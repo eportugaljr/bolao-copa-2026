@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-15T00:57:58.697Z",
+  "atualizado_em": "2026-06-15T02:11:03.599Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -9,7 +9,9 @@
       "selecao_02": "África do Sul",
       "nome_jogo": "México x África do Sul",
       "resultado_oficial": "Mandante",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "Fri Nov 06 2026 05:00:00 GMT-0300 (Horário Padrão de Brasília)",
+      "hora": "Sat Dec 30 1899 20:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 2,
@@ -19,7 +21,9 @@
       "selecao_02": "Tchéquia",
       "nome_jogo": "Coreia do Sul x Tchéquia",
       "resultado_oficial": "Mandante",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "Fri Nov 06 2026 05:00:00 GMT-0300 (Horário Padrão de Brasília)",
+      "hora": "Sun Dec 31 1899 03:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 3,
@@ -29,7 +33,9 @@
       "selecao_02": "Bósnia e Herzegovina",
       "nome_jogo": "Canadá x Bósnia e Herzegovina",
       "resultado_oficial": "Empate",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "Sun Dec 06 2026 05:00:00 GMT-0300 (Horário Padrão de Brasília)",
+      "hora": "Sat Dec 30 1899 20:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 4,
@@ -39,7 +45,9 @@
       "selecao_02": "Paraguai",
       "nome_jogo": "Estados Unidos x Paraguai",
       "resultado_oficial": "Mandante",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "Sun Dec 06 2026 05:00:00 GMT-0300 (Horário Padrão de Brasília)",
+      "hora": "Sun Dec 31 1899 02:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 5,
@@ -49,7 +57,9 @@
       "selecao_02": "Suíça",
       "nome_jogo": "Catar x Suíça",
       "resultado_oficial": "Empate",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "13/06/2026",
+      "hora": "Sat Dec 30 1899 20:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 6,
@@ -59,7 +69,9 @@
       "selecao_02": "Marrocos",
       "nome_jogo": "Brasil x Marrocos",
       "resultado_oficial": "Empate",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "13/06/2026",
+      "hora": "Sat Dec 30 1899 23:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 7,
@@ -69,7 +81,9 @@
       "selecao_02": "Escócia",
       "nome_jogo": "Haiti x Escócia",
       "resultado_oficial": "Visitante",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "13/06/2026",
+      "hora": "Sun Dec 31 1899 02:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 8,
@@ -79,7 +93,9 @@
       "selecao_02": "Turquia",
       "nome_jogo": "Austrália x Turquia",
       "resultado_oficial": "Mandante",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "14/06/2026",
+      "hora": "Sat Dec 30 1899 05:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 9,
@@ -89,7 +105,9 @@
       "selecao_02": "Curaçao",
       "nome_jogo": "Alemanha x Curaçao",
       "resultado_oficial": "Mandante",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "14/06/2026",
+      "hora": "Sat Dec 30 1899 18:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 10,
@@ -99,7 +117,9 @@
       "selecao_02": "Japão",
       "nome_jogo": "Holanda x Japão",
       "resultado_oficial": "Empate",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "14/06/2026",
+      "hora": "Sat Dec 30 1899 21:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 11,
@@ -109,7 +129,9 @@
       "selecao_02": "Equador",
       "nome_jogo": "Costa do Marfim x Equador",
       "resultado_oficial": "Mandante",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "14/06/2026",
+      "hora": "Sun Dec 31 1899 00:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 12,
@@ -119,7 +141,9 @@
       "selecao_02": "Tunísia",
       "nome_jogo": "Suécia x Tunísia",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "14/06/2026",
+      "hora": "Sun Dec 31 1899 03:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 13,
@@ -129,7 +153,9 @@
       "selecao_02": "Cabo Verde",
       "nome_jogo": "Espanha x Cabo Verde",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "15/06/2026",
+      "hora": "Sat Dec 30 1899 17:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 14,
@@ -139,7 +165,9 @@
       "selecao_02": "Egito",
       "nome_jogo": "Bélgica x Egito",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "15/06/2026",
+      "hora": "Sat Dec 30 1899 20:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 15,
@@ -149,7 +177,9 @@
       "selecao_02": "Uruguai",
       "nome_jogo": "Arábia Saudita x Uruguai",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "15/06/2026",
+      "hora": "Sat Dec 30 1899 23:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 16,
@@ -159,7 +189,9 @@
       "selecao_02": "Nova Zelândia",
       "nome_jogo": "Irã x Nova Zelândia",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "15/06/2026",
+      "hora": "Sun Dec 31 1899 02:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 17,
@@ -169,7 +201,9 @@
       "selecao_02": "Senegal",
       "nome_jogo": "França x Senegal",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "16/06/2026",
+      "hora": "Sat Dec 30 1899 20:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 18,
@@ -179,7 +213,9 @@
       "selecao_02": "Noruega",
       "nome_jogo": "Iraque x Noruega",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "16/06/2026",
+      "hora": "Sat Dec 30 1899 23:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 19,
@@ -189,7 +225,9 @@
       "selecao_02": "Argélia",
       "nome_jogo": "Argentina x Argélia",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "16/06/2026",
+      "hora": "Sun Dec 31 1899 02:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 20,
@@ -199,7 +237,9 @@
       "selecao_02": "Jordânia",
       "nome_jogo": "Áustria x Jordânia",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "17/06/2026",
+      "hora": "Sat Dec 30 1899 05:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 21,
@@ -209,7 +249,9 @@
       "selecao_02": "RD Congo",
       "nome_jogo": "Portugal x RD Congo",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "17/06/2026",
+      "hora": "Sat Dec 30 1899 18:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 22,
@@ -219,7 +261,9 @@
       "selecao_02": "Croácia",
       "nome_jogo": "Inglaterra x Croácia",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "17/06/2026",
+      "hora": "Sat Dec 30 1899 21:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 23,
@@ -229,7 +273,9 @@
       "selecao_02": "Panamá",
       "nome_jogo": "Gana x Panamá",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "17/06/2026",
+      "hora": "Sun Dec 31 1899 00:53:32 GMT-0306 (Horário Padrão de Brasília)"
     },
     {
       "id_jogo": 24,
@@ -239,7 +285,9 @@
       "selecao_02": "Colômbia",
       "nome_jogo": "Uzbequistão x Colômbia",
       "resultado_oficial": "",
-      "rodada": "R1"
+      "rodada": "R1",
+      "data": "17/06/2026",
+      "hora": "Sun Dec 31 1899 03:53:32 GMT-0306 (Horário Padrão de Brasília)"
     }
   ],
   "participantes": [
