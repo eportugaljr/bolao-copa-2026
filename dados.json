@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-16T20:10:28.171Z",
+  "atualizado_em": "2026-06-16T20:41:01.641Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -10,8 +10,8 @@
       "nome_jogo": "México x África do Sul",
       "resultado_oficial": "Mandante",
       "rodada": "R1",
-      "data": "06/11/2026",
-      "hora": "20:53"
+      "data": "11/06/2026",
+      "hora": "16:00"
     },
     {
       "id_jogo": 2,
@@ -22,8 +22,8 @@
       "nome_jogo": "Coreia do Sul x Tchéquia",
       "resultado_oficial": "Mandante",
       "rodada": "R1",
-      "data": "06/11/2026",
-      "hora": "03:53"
+      "data": "11/06/2026",
+      "hora": "23:00"
     },
     {
       "id_jogo": 3,
@@ -34,8 +34,8 @@
       "nome_jogo": "Canadá x Bósnia e Herzegovina",
       "resultado_oficial": "Empate",
       "rodada": "R1",
-      "data": "06/12/2026",
-      "hora": "20:53"
+      "data": "12/06/2026",
+      "hora": "16:00"
     },
     {
       "id_jogo": 4,
@@ -46,8 +46,8 @@
       "nome_jogo": "Estados Unidos x Paraguai",
       "resultado_oficial": "Mandante",
       "rodada": "R1",
-      "data": "06/12/2026",
-      "hora": "02:53"
+      "data": "12/06/2026",
+      "hora": "22:00"
     },
     {
       "id_jogo": 5,
@@ -58,8 +58,8 @@
       "nome_jogo": "Catar x Suíça",
       "resultado_oficial": "Empate",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "20:53"
+      "data": "13/06/2026",
+      "hora": "16:00"
     },
     {
       "id_jogo": 6,
@@ -70,8 +70,8 @@
       "nome_jogo": "Brasil x Marrocos",
       "resultado_oficial": "Empate",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "23:53"
+      "data": "13/06/2026",
+      "hora": "19:00"
     },
     {
       "id_jogo": 7,
@@ -82,8 +82,8 @@
       "nome_jogo": "Haiti x Escócia",
       "resultado_oficial": "Visitante",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "02:53"
+      "data": "13/06/2026",
+      "hora": "22:00"
     },
     {
       "id_jogo": 8,
@@ -94,8 +94,8 @@
       "nome_jogo": "Austrália x Turquia",
       "resultado_oficial": "Mandante",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "05:53"
+      "data": "14/06/2026",
+      "hora": "1:00"
     },
     {
       "id_jogo": 9,
@@ -106,8 +106,8 @@
       "nome_jogo": "Alemanha x Curaçao",
       "resultado_oficial": "Mandante",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "18:53"
+      "data": "14/06/2026",
+      "hora": "14:00"
     },
     {
       "id_jogo": 10,
@@ -118,8 +118,8 @@
       "nome_jogo": "Holanda x Japão",
       "resultado_oficial": "Empate",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "21:53"
+      "data": "14/06/2026",
+      "hora": "17:00"
     },
     {
       "id_jogo": 11,
@@ -130,8 +130,8 @@
       "nome_jogo": "Costa do Marfim x Equador",
       "resultado_oficial": "Mandante",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "00:53"
+      "data": "14/06/2026",
+      "hora": "20:00"
     },
     {
       "id_jogo": 12,
@@ -142,8 +142,8 @@
       "nome_jogo": "Suécia x Tunísia",
       "resultado_oficial": "Mandante",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "03:53"
+      "data": "14/06/2026",
+      "hora": "23:00"
     },
     {
       "id_jogo": 13,
@@ -154,8 +154,8 @@
       "nome_jogo": "Espanha x Cabo Verde",
       "resultado_oficial": "Empate",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "17:53"
+      "data": "15/06/2026",
+      "hora": "13:00"
     },
     {
       "id_jogo": 14,
@@ -166,8 +166,8 @@
       "nome_jogo": "Bélgica x Egito",
       "resultado_oficial": "Empate",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "20:53"
+      "data": "15/06/2026",
+      "hora": "16:00"
     },
     {
       "id_jogo": 15,
@@ -178,8 +178,8 @@
       "nome_jogo": "Arábia Saudita x Uruguai",
       "resultado_oficial": "Empate",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "23:53"
+      "data": "15/06/2026",
+      "hora": "19:00"
     },
     {
       "id_jogo": 16,
@@ -190,8 +190,8 @@
       "nome_jogo": "Irã x Nova Zelândia",
       "resultado_oficial": "Empate",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "02:53"
+      "data": "15/06/2026",
+      "hora": "22:00"
     },
     {
       "id_jogo": 17,
@@ -202,8 +202,8 @@
       "nome_jogo": "França x Senegal",
       "resultado_oficial": "",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "20:53"
+      "data": "16/06/2026",
+      "hora": "16:00"
     },
     {
       "id_jogo": 18,
@@ -214,8 +214,8 @@
       "nome_jogo": "Iraque x Noruega",
       "resultado_oficial": "",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "23:53"
+      "data": "16/06/2026",
+      "hora": "19:00"
     },
     {
       "id_jogo": 19,
@@ -226,8 +226,8 @@
       "nome_jogo": "Argentina x Argélia",
       "resultado_oficial": "",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "02:53"
+      "data": "16/06/2026",
+      "hora": "22:00"
     },
     {
       "id_jogo": 20,
@@ -238,8 +238,8 @@
       "nome_jogo": "Áustria x Jordânia",
       "resultado_oficial": "",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "05:53"
+      "data": "17/06/2026",
+      "hora": "1:00"
     },
     {
       "id_jogo": 21,
@@ -250,8 +250,8 @@
       "nome_jogo": "Portugal x RD Congo",
       "resultado_oficial": "",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "18:53"
+      "data": "17/06/2026",
+      "hora": "14:00"
     },
     {
       "id_jogo": 22,
@@ -262,8 +262,8 @@
       "nome_jogo": "Inglaterra x Croácia",
       "resultado_oficial": "",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "21:53"
+      "data": "17/06/2026",
+      "hora": "17:00"
     },
     {
       "id_jogo": 23,
@@ -274,8 +274,8 @@
       "nome_jogo": "Gana x Panamá",
       "resultado_oficial": "",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "00:53"
+      "data": "17/06/2026",
+      "hora": "20:00"
     },
     {
       "id_jogo": 24,
@@ -286,8 +286,8 @@
       "nome_jogo": "Uzbequistão x Colômbia",
       "resultado_oficial": "",
       "rodada": "R1",
-      "data": "31/12/1969",
-      "hora": "03:53"
+      "data": "17/06/2026",
+      "hora": "23:00"
     }
   ],
   "participantes": [
