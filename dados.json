@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-17T14:48:19.334Z",
+  "atualizado_em": "2026-06-17T15:01:04.189Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -8046,5 +8046,150 @@
       "exato": 0
     }
   ],
-  "ranking": []
+  "ranking": [
+    {
+      "posicao": "1",
+      "participante": "Eduardo",
+      "pontos": 19,
+      "placares_exatos": 4
+    },
+    {
+      "posicao": "1",
+      "participante": "Fabio",
+      "pontos": 19,
+      "placares_exatos": 4
+    },
+    {
+      "posicao": "3",
+      "participante": "Tre",
+      "pontos": 17,
+      "placares_exatos": 3
+    },
+    {
+      "posicao": "4",
+      "participante": "Gabriel",
+      "pontos": 15,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "4",
+      "participante": "Natalina",
+      "pontos": 15,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "6",
+      "participante": "Daniel",
+      "pontos": 14,
+      "placares_exatos": 3
+    },
+    {
+      "posicao": "7",
+      "participante": "Glads",
+      "pontos": 14,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "8",
+      "participante": "Alexandre",
+      "pontos": 13,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "8",
+      "participante": "Angelica",
+      "pontos": 13,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "8",
+      "participante": "Carla",
+      "pontos": 13,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "8",
+      "participante": "Rafael",
+      "pontos": 13,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "12",
+      "participante": "Jr",
+      "pontos": 13,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "13",
+      "participante": "Carol",
+      "pontos": 12,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "13",
+      "participante": "Leo",
+      "pontos": 12,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "15",
+      "participante": "Ceará",
+      "pontos": 12,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "16",
+      "participante": "João",
+      "pontos": 11,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "16",
+      "participante": "Petra",
+      "pontos": 11,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "18",
+      "participante": "Felipe",
+      "pontos": 10,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "18",
+      "participante": "Marina",
+      "pontos": 10,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "18",
+      "participante": "Renata",
+      "pontos": 10,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "21",
+      "participante": "Keli",
+      "pontos": 9,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "22",
+      "participante": "Vitória",
+      "pontos": 9,
+      "placares_exatos": 0
+    },
+    {
+      "posicao": "23",
+      "participante": "Julia",
+      "pontos": 8,
+      "placares_exatos": 0
+    },
+    {
+      "posicao": "24",
+      "participante": "Tais",
+      "pontos": 5,
+      "placares_exatos": 0
+    }
+  ]
 }
