@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-16T23:43:40.246Z",
+  "atualizado_em": "2026-06-17T00:01:56.174Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -209,7 +209,7 @@
       "id_jogo": 18,
       "selecao_01": "Iraque",
       "gols_1_oficial": 1,
-      "gols_2_oficial": 3,
+      "gols_2_oficial": 4,
       "selecao_02": "Noruega",
       "nome_jogo": "Iraque x Noruega",
       "resultado_oficial": "Visitante",
@@ -1934,8 +1934,8 @@
       "gols_1": 1,
       "gols_2": 3,
       "resultado_palpite": "Visitante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R1",
@@ -6129,43 +6129,43 @@
     },
     {
       "posicao": "7",
-      "participante": "Petra",
-      "pontos": 11,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "7",
       "participante": "Rafael",
       "pontos": 11,
       "placares_exatos": 2
     },
     {
-      "posicao": "11",
+      "posicao": "10",
       "participante": "Gabriel",
       "pontos": 11,
       "placares_exatos": 1
     },
     {
-      "posicao": "11",
+      "posicao": "10",
       "participante": "Jr",
       "pontos": 11,
       "placares_exatos": 1
     },
     {
-      "posicao": "13",
+      "posicao": "12",
       "participante": "Ceará",
       "pontos": 10,
       "placares_exatos": 1
     },
     {
-      "posicao": "14",
+      "posicao": "13",
       "participante": "Alexandre",
       "pontos": 9,
       "placares_exatos": 1
     },
     {
-      "posicao": "14",
+      "posicao": "13",
       "participante": "João",
+      "pontos": 9,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "13",
+      "participante": "Petra",
       "pontos": 9,
       "placares_exatos": 1
     },
