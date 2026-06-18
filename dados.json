@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-18T16:19:21.087Z",
+  "atualizado_em": "2026-06-18T16:29:06.421Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -11882,6 +11882,246 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 25,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 27,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 31,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 5,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 36,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 39,
+      "gols_1": 4,
+      "gols_2": 3,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 46,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 47,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 48,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
       "pontos": null,
       "exato": 0
     }
