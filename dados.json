@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-17T19:02:23.041Z",
+  "atualizado_em": "2026-06-18T01:33:23.749Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -256,11 +256,11 @@
     {
       "id_jogo": 22,
       "selecao_01": "Inglaterra",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
+      "gols_1_oficial": 4,
+      "gols_2_oficial": 2,
       "selecao_02": "Croácia",
       "nome_jogo": "Inglaterra x Croácia",
-      "resultado_oficial": "",
+      "resultado_oficial": "Mandante",
       "rodada": "R1",
       "data": "17/06/2026",
       "hora": "17:00"
@@ -268,11 +268,11 @@
     {
       "id_jogo": 23,
       "selecao_01": "Gana",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
+      "gols_1_oficial": 1,
+      "gols_2_oficial": 0,
       "selecao_02": "Panamá",
       "nome_jogo": "Gana x Panamá",
-      "resultado_oficial": "",
+      "resultado_oficial": "Mandante",
       "rodada": "R1",
       "data": "17/06/2026",
       "hora": "20:00"
@@ -2502,7 +2502,7 @@
       "gols_1": 2,
       "gols_2": 2,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -2512,7 +2512,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -2742,7 +2742,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -2752,8 +2752,8 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R1",
@@ -2982,7 +2982,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -2992,7 +2992,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -3222,7 +3222,7 @@
       "gols_1": 1,
       "gols_2": 3,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -3232,7 +3232,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -3462,7 +3462,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -3472,7 +3472,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -3702,7 +3702,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -3712,8 +3712,8 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R1",
@@ -3942,7 +3942,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -3952,7 +3952,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -4182,7 +4182,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -4192,7 +4192,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -4422,7 +4422,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -4432,8 +4432,8 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R1",
@@ -4662,7 +4662,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -4672,8 +4672,8 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R1",
@@ -4902,7 +4902,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -4912,8 +4912,8 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R1",
@@ -5142,7 +5142,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -5152,7 +5152,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -5382,7 +5382,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -5392,7 +5392,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -5622,7 +5622,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -5632,8 +5632,8 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R1",
@@ -5862,7 +5862,7 @@
       "gols_1": 3,
       "gols_2": 2,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -5872,7 +5872,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -6102,7 +6102,7 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -6112,7 +6112,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -6342,7 +6342,7 @@
       "gols_1": 3,
       "gols_2": 2,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -6352,7 +6352,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -6582,7 +6582,7 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -6592,7 +6592,7 @@
       "gols_1": 2,
       "gols_2": 3,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -6822,7 +6822,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -6832,7 +6832,7 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -7062,7 +7062,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -7072,7 +7072,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -7302,7 +7302,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -7312,7 +7312,7 @@
       "gols_1": 0,
       "gols_2": 1,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -7542,7 +7542,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -7552,7 +7552,7 @@
       "gols_1": 3,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -7782,7 +7782,7 @@
       "gols_1": 3,
       "gols_2": 2,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -7792,7 +7792,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -8022,7 +8022,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -8032,7 +8032,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -8049,146 +8049,146 @@
   "ranking": [
     {
       "posicao": "1",
-      "participante": "Eduardo",
-      "pontos": 19,
-      "placares_exatos": 4
+      "participante": "Fabio",
+      "pontos": 22,
+      "placares_exatos": 5
     },
     {
-      "posicao": "1",
-      "participante": "Fabio",
-      "pontos": 19,
+      "posicao": "2",
+      "participante": "Tre",
+      "pontos": 21,
       "placares_exatos": 4
     },
     {
       "posicao": "3",
+      "participante": "Eduardo",
+      "pontos": 20,
+      "placares_exatos": 4
+    },
+    {
+      "posicao": "4",
+      "participante": "Gabriel",
+      "pontos": 19,
+      "placares_exatos": 3
+    },
+    {
+      "posicao": "5",
       "participante": "Daniel",
       "pontos": 17,
       "placares_exatos": 4
     },
     {
-      "posicao": "4",
-      "participante": "Tre",
+      "posicao": "6",
+      "participante": "Carla",
       "pontos": 17,
       "placares_exatos": 3
     },
     {
-      "posicao": "5",
-      "participante": "Gabriel",
-      "pontos": 15,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "5",
-      "participante": "Natalina",
-      "pontos": 15,
-      "placares_exatos": 2
-    },
-    {
       "posicao": "7",
-      "participante": "Glads",
-      "pontos": 14,
-      "placares_exatos": 1
-    },
-    {
-      "posicao": "8",
-      "participante": "Alexandre",
-      "pontos": 13,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "8",
-      "participante": "Angelica",
-      "pontos": 13,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "8",
-      "participante": "Carla",
-      "pontos": 13,
+      "participante": "Natalina",
+      "pontos": 16,
       "placares_exatos": 2
     },
     {
       "posicao": "8",
       "participante": "Rafael",
-      "pontos": 13,
+      "pontos": 15,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "9",
+      "participante": "Glads",
+      "pontos": 15,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "9",
+      "participante": "Jr",
+      "pontos": 15,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "11",
+      "participante": "Alexandre",
+      "pontos": 14,
       "placares_exatos": 2
     },
     {
       "posicao": "12",
-      "participante": "Jr",
-      "pontos": 13,
+      "participante": "Ceará",
+      "pontos": 14,
       "placares_exatos": 1
     },
     {
       "posicao": "13",
+      "participante": "Angelica",
+      "pontos": 13,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "13",
       "participante": "Carol",
-      "pontos": 12,
+      "pontos": 13,
       "placares_exatos": 2
     },
     {
       "posicao": "13",
       "participante": "Leo",
-      "pontos": 12,
+      "pontos": 13,
       "placares_exatos": 2
     },
     {
-      "posicao": "15",
-      "participante": "Ceará",
-      "pontos": 12,
-      "placares_exatos": 1
+      "posicao": "13",
+      "participante": "Renata",
+      "pontos": 13,
+      "placares_exatos": 2
     },
     {
-      "posicao": "16",
-      "participante": "João",
-      "pontos": 11,
-      "placares_exatos": 1
-    },
-    {
-      "posicao": "16",
+      "posicao": "17",
       "participante": "Petra",
-      "pontos": 11,
+      "pontos": 13,
       "placares_exatos": 1
     },
     {
       "posicao": "18",
       "participante": "Felipe",
-      "pontos": 10,
+      "pontos": 12,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "18",
+      "participante": "João",
+      "pontos": 12,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "18",
+      "participante": "Julia",
+      "pontos": 12,
       "placares_exatos": 1
     },
     {
       "posicao": "18",
       "participante": "Marina",
-      "pontos": 10,
-      "placares_exatos": 1
-    },
-    {
-      "posicao": "18",
-      "participante": "Renata",
-      "pontos": 10,
-      "placares_exatos": 1
-    },
-    {
-      "posicao": "21",
-      "participante": "Keli",
-      "pontos": 9,
+      "pontos": 12,
       "placares_exatos": 1
     },
     {
       "posicao": "22",
       "participante": "Vitória",
-      "pontos": 9,
+      "pontos": 10,
       "placares_exatos": 0
     },
     {
       "posicao": "23",
-      "participante": "Julia",
-      "pontos": 8,
-      "placares_exatos": 0
+      "participante": "Keli",
+      "pontos": 9,
+      "placares_exatos": 1
     },
     {
       "posicao": "24",
       "participante": "Tais",
-      "pontos": 5,
+      "pontos": 6,
       "placares_exatos": 0
     }
   ]
