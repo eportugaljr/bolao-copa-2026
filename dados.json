@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-20T00:03:12.542Z",
+  "atualizado_em": "2026-06-20T02:36:02.669Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -364,11 +364,11 @@
     {
       "id_jogo": 31,
       "selecao_01": "Brasil",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
+      "gols_1_oficial": 3,
+      "gols_2_oficial": 0,
       "selecao_02": "Haiti",
       "nome_jogo": "Brasil x Haiti",
-      "resultado_oficial": "",
+      "resultado_oficial": "Mandante",
       "rodada": "R2",
       "data": "19/06/2026",
       "hora": "21:30"
@@ -6432,7 +6432,7 @@
       "gols_1": 4,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -6672,7 +6672,7 @@
       "gols_1": 4,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -6848,246 +6848,6 @@
     {
       "rodada": "R2",
       "participante": "Marina",
-      "id_jogo": 25,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": 3,
-      "exato": 1
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 26,
-      "gols_1": 2,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": 1,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 27,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": 1,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 28,
-      "gols_1": 3,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": 1,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 29,
-      "gols_1": 1,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": 1,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 30,
-      "gols_1": 4,
-      "gols_2": 2,
-      "resultado_palpite": "Mandante",
-      "pontos": 1,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 31,
-      "gols_1": 2,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 32,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 33,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 34,
-      "gols_1": 3,
-      "gols_2": 2,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 35,
-      "gols_1": 3,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 36,
-      "gols_1": 1,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 37,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 38,
-      "gols_1": 3,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 39,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 40,
-      "gols_1": 1,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 41,
-      "gols_1": 3,
-      "gols_2": 2,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 42,
-      "gols_1": 4,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 43,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 44,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 45,
-      "gols_1": 3,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 46,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 47,
-      "gols_1": 1,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Marina",
-      "id_jogo": 48,
-      "gols_1": 2,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "R2",
-      "participante": "Natalina",
       "id_jogo": 25,
       "gols_1": 1,
       "gols_2": 1,
@@ -7097,6 +6857,246 @@
     },
     {
       "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 28,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 30,
+      "gols_1": 4,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 31,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 35,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 39,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
       "participante": "Natalina",
       "id_jogo": 26,
       "gols_1": 2,
@@ -7152,8 +7152,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R2",
@@ -7392,7 +7392,7 @@
       "gols_1": 3,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -7632,7 +7632,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -7872,7 +7872,7 @@
       "gols_1": 4,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -8112,7 +8112,7 @@
       "gols_1": 3,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -8352,7 +8352,7 @@
       "gols_1": 4,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -8592,8 +8592,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R2",
@@ -8832,8 +8832,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R2",
@@ -9072,7 +9072,7 @@
       "gols_1": 3,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -9312,7 +9312,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -9552,7 +9552,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -9792,8 +9792,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R2",
@@ -10032,8 +10032,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R2",
@@ -10272,7 +10272,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -10512,7 +10512,7 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -10752,8 +10752,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R2",
@@ -10992,7 +10992,7 @@
       "gols_1": 4,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -11232,7 +11232,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -11472,8 +11472,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R2",
@@ -11712,7 +11712,7 @@
       "gols_1": 4,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -11952,7 +11952,7 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -12130,145 +12130,145 @@
     {
       "posicao": "1",
       "participante": "Tre",
-      "pontos": 29,
-      "placares_exatos": 5
+      "pontos": 32,
+      "placares_exatos": 6
     },
     {
       "posicao": "2",
       "participante": "Eduardo",
-      "pontos": 27,
+      "pontos": 28,
       "placares_exatos": 5
     },
     {
       "posicao": "2",
       "participante": "Fabio",
-      "pontos": 27,
+      "pontos": 28,
       "placares_exatos": 5
     },
     {
       "posicao": "4",
       "participante": "Gabriel",
+      "pontos": 28,
+      "placares_exatos": 4
+    },
+    {
+      "posicao": "5",
+      "participante": "Natalina",
+      "pontos": 26,
+      "placares_exatos": 4
+    },
+    {
+      "posicao": "6",
+      "participante": "Carla",
+      "pontos": 25,
+      "placares_exatos": 4
+    },
+    {
+      "posicao": "7",
+      "participante": "Jr",
       "pontos": 25,
       "placares_exatos": 3
     },
     {
-      "posicao": "5",
+      "posicao": "8",
       "participante": "Daniel",
-      "pontos": 23,
+      "pontos": 24,
       "placares_exatos": 5
     },
     {
-      "posicao": "6",
-      "participante": "Natalina",
-      "pontos": 23,
-      "placares_exatos": 3
-    },
-    {
-      "posicao": "6",
-      "participante": "Rafael",
-      "pontos": 23,
-      "placares_exatos": 3
-    },
-    {
-      "posicao": "8",
-      "participante": "Leo",
-      "pontos": 22,
-      "placares_exatos": 4
-    },
-    {
       "posicao": "9",
-      "participante": "Carla",
-      "pontos": 22,
+      "participante": "Rafael",
+      "pontos": 24,
       "placares_exatos": 3
     },
     {
       "posicao": "10",
-      "participante": "Jr",
-      "pontos": 22,
-      "placares_exatos": 2
+      "participante": "Leo",
+      "pontos": 23,
+      "placares_exatos": 4
     },
     {
       "posicao": "11",
       "participante": "Marina",
-      "pontos": 21,
+      "pontos": 22,
       "placares_exatos": 2
     },
     {
       "posicao": "12",
       "participante": "Alexandre",
-      "pontos": 20,
+      "pontos": 21,
       "placares_exatos": 3
     },
     {
       "posicao": "13",
       "participante": "João",
-      "pontos": 20,
+      "pontos": 21,
       "placares_exatos": 2
     },
     {
-      "posicao": "14",
-      "participante": "Ceará",
-      "pontos": 20,
-      "placares_exatos": 1
+      "posicao": "13",
+      "participante": "Julia",
+      "pontos": 21,
+      "placares_exatos": 2
     },
     {
       "posicao": "15",
-      "participante": "Renata",
-      "pontos": 19,
+      "participante": "Ceará",
+      "pontos": 21,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "16",
+      "participante": "Felipe",
+      "pontos": 20,
       "placares_exatos": 2
     },
     {
       "posicao": "16",
+      "participante": "Renata",
+      "pontos": 20,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "18",
       "participante": "Glads",
+      "pontos": 20,
+      "placares_exatos": 1
+    },
+    {
+      "posicao": "19",
+      "participante": "Angelica",
+      "pontos": 19,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "19",
+      "participante": "Carol",
+      "pontos": 19,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "21",
+      "participante": "Petra",
       "pontos": 19,
       "placares_exatos": 1
     },
     {
-      "posicao": "17",
-      "participante": "Angelica",
-      "pontos": 18,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "17",
-      "participante": "Carol",
-      "pontos": 18,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "19",
-      "participante": "Julia",
-      "pontos": 18,
-      "placares_exatos": 1
-    },
-    {
-      "posicao": "19",
-      "participante": "Petra",
-      "pontos": 18,
-      "placares_exatos": 1
-    },
-    {
-      "posicao": "21",
-      "participante": "Keli",
-      "pontos": 17,
-      "placares_exatos": 3
-    },
-    {
       "posicao": "22",
-      "participante": "Felipe",
-      "pontos": 17,
-      "placares_exatos": 1
+      "participante": "Keli",
+      "pontos": 18,
+      "placares_exatos": 3
     },
     {
       "posicao": "23",
       "participante": "Vitória",
-      "pontos": 13,
+      "pontos": 14,
       "placares_exatos": 0
     },
     {
       "posicao": "24",
       "participante": "Tais",
-      "pontos": 12,
+      "pontos": 13,
       "placares_exatos": 1
     }
   ]
