@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-23T22:30:44.121Z",
+  "atualizado_em": "2026-06-23T23:31:28.450Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -13747,9 +13747,9 @@
       "rodada": "R3",
       "participante": "Alexandre",
       "id_jogo": 62,
-      "gols_1": 0,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
     },
@@ -13777,9 +13777,9 @@
       "rodada": "R3",
       "participante": "Alexandre",
       "id_jogo": 65,
-      "gols_1": 2,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
     },
