@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-23T22:22:32.672Z",
+  "atualizado_em": "2026-06-23T22:30:44.121Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -579,30 +579,6 @@
     },
     {
       "id_jogo": 49,
-      "selecao_01": "Escócia",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
-      "selecao_02": "Brasil",
-      "nome_jogo": "Escócia x Brasil",
-      "resultado_oficial": "",
-      "rodada": "R3",
-      "data": "24/06/2026",
-      "hora": "19:00"
-    },
-    {
-      "id_jogo": 50,
-      "selecao_01": "Marrocos",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
-      "selecao_02": "Haiti",
-      "nome_jogo": "Marrocos x Haiti",
-      "resultado_oficial": "",
-      "rodada": "R3",
-      "data": "24/06/2026",
-      "hora": "19:00"
-    },
-    {
-      "id_jogo": 51,
       "selecao_01": "Suíça",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
@@ -614,7 +590,7 @@
       "hora": "16:00"
     },
     {
-      "id_jogo": 52,
+      "id_jogo": 50,
       "selecao_01": "Bósnia e Herzegovina",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
@@ -626,12 +602,36 @@
       "hora": "16:00"
     },
     {
-      "id_jogo": 53,
-      "selecao_01": "Tchéquia",
+      "id_jogo": 51,
+      "selecao_01": "Marrocos",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
-      "selecao_02": "México",
-      "nome_jogo": "Tchéquia x México",
+      "selecao_02": "Haiti",
+      "nome_jogo": "Marrocos x Haiti",
+      "resultado_oficial": "",
+      "rodada": "R3",
+      "data": "24/06/2026",
+      "hora": "19:00"
+    },
+    {
+      "id_jogo": 52,
+      "selecao_01": "Escócia",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Brasil",
+      "nome_jogo": "Escócia x Brasil",
+      "resultado_oficial": "",
+      "rodada": "R3",
+      "data": "24/06/2026",
+      "hora": "19:00"
+    },
+    {
+      "id_jogo": 53,
+      "selecao_01": "África do Sul",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Coreia do Sul",
+      "nome_jogo": "África do Sul x Coreia do Sul",
       "resultado_oficial": "",
       "rodada": "R3",
       "data": "24/06/2026",
@@ -639,11 +639,11 @@
     },
     {
       "id_jogo": 54,
-      "selecao_01": "África do Sul",
+      "selecao_01": "República Tcheca",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
-      "selecao_02": "Coreia do Sul",
-      "nome_jogo": "África do Sul x Coreia do Sul",
+      "selecao_02": "México",
+      "nome_jogo": "República Tcheca x México",
       "resultado_oficial": "",
       "rodada": "R3",
       "data": "24/06/2026",
@@ -675,11 +675,11 @@
     },
     {
       "id_jogo": 57,
-      "selecao_01": "Japão",
+      "selecao_01": "Tunísia",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
-      "selecao_02": "Suécia",
-      "nome_jogo": "Japão x Suécia",
+      "selecao_02": "Holanda",
+      "nome_jogo": "Tunísia x Holanda",
       "resultado_oficial": "",
       "rodada": "R3",
       "data": "25/06/2026",
@@ -687,11 +687,11 @@
     },
     {
       "id_jogo": 58,
-      "selecao_01": "Tunísia",
+      "selecao_01": "Japão",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
-      "selecao_02": "Holanda",
-      "nome_jogo": "Tunísia x Holanda",
+      "selecao_02": "Suécia",
+      "nome_jogo": "Japão x Suécia",
       "resultado_oficial": "",
       "rodada": "R3",
       "data": "25/06/2026",
@@ -747,30 +747,6 @@
     },
     {
       "id_jogo": 63,
-      "selecao_01": "Egito",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
-      "selecao_02": "Irã",
-      "nome_jogo": "Egito x Irã",
-      "resultado_oficial": "",
-      "rodada": "R3",
-      "data": "27/06/2026",
-      "hora": "0:00"
-    },
-    {
-      "id_jogo": 64,
-      "selecao_01": "Nova Zelândia",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
-      "selecao_02": "Bélgica",
-      "nome_jogo": "Nova Zelândia x Bélgica",
-      "resultado_oficial": "",
-      "rodada": "R3",
-      "data": "27/06/2026",
-      "hora": "0:00"
-    },
-    {
-      "id_jogo": 65,
       "selecao_01": "Cabo Verde",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
@@ -782,7 +758,7 @@
       "hora": "21:00"
     },
     {
-      "id_jogo": 66,
+      "id_jogo": 64,
       "selecao_01": "Uruguai",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
@@ -792,6 +768,30 @@
       "rodada": "R3",
       "data": "26/06/2026",
       "hora": "21:00"
+    },
+    {
+      "id_jogo": 65,
+      "selecao_01": "Nova Zelândia",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Bélgica",
+      "nome_jogo": "Nova Zelândia x Bélgica",
+      "resultado_oficial": "",
+      "rodada": "R3",
+      "data": "27/06/2026",
+      "hora": "0:00"
+    },
+    {
+      "id_jogo": 66,
+      "selecao_01": "Egito",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Irã",
+      "nome_jogo": "Egito x Irã",
+      "resultado_oficial": "",
+      "rodada": "R3",
+      "data": "27/06/2026",
+      "hora": "0:00"
     },
     {
       "id_jogo": 67,
@@ -819,30 +819,6 @@
     },
     {
       "id_jogo": 69,
-      "selecao_01": "Argélia",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
-      "selecao_02": "Áustria",
-      "nome_jogo": "Argélia x Áustria",
-      "resultado_oficial": "",
-      "rodada": "R3",
-      "data": "27/06/2026",
-      "hora": "23:00"
-    },
-    {
-      "id_jogo": 70,
-      "selecao_01": "Jordânia",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
-      "selecao_02": "Argentina",
-      "nome_jogo": "Jordânia x Argentina",
-      "resultado_oficial": "",
-      "rodada": "R3",
-      "data": "27/06/2026",
-      "hora": "23:00"
-    },
-    {
-      "id_jogo": 71,
       "selecao_01": "Colômbia",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
@@ -854,7 +830,7 @@
       "hora": "20:30"
     },
     {
-      "id_jogo": 72,
+      "id_jogo": 70,
       "selecao_01": "RD Congo",
       "gols_1_oficial": null,
       "gols_2_oficial": null,
@@ -864,6 +840,30 @@
       "rodada": "R3",
       "data": "27/06/2026",
       "hora": "20:30"
+    },
+    {
+      "id_jogo": 71,
+      "selecao_01": "Argélia",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Áustria",
+      "nome_jogo": "Argélia x Áustria",
+      "resultado_oficial": "",
+      "rodada": "R3",
+      "data": "27/06/2026",
+      "hora": "23:00"
+    },
+    {
+      "id_jogo": 72,
+      "selecao_01": "Jordânia",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Argentina",
+      "nome_jogo": "Jordânia x Argentina",
+      "resultado_oficial": "",
+      "rodada": "R3",
+      "data": "27/06/2026",
+      "hora": "23:00"
     }
   ],
   "participantes": [
