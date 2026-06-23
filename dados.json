@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-23T22:21:29.939Z",
+  "atualizado_em": "2026-06-23T22:21:41.719Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -6652,151 +6652,5911 @@
       "resultado_palpite": "Visitante",
       "pontos": 1,
       "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 31,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 40,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 42,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tais",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 31,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 34,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 35,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 39,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 42,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carol",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 28,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 30,
+      "gols_1": 4,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 31,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 35,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 39,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Marina",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 27,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 28,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 29,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 30,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 33,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 34,
+      "gols_1": 5,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 39,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 44,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 47,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Natalina",
+      "id_jogo": 48,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 26,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 34,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 35,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Glads",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 26,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 27,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 29,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 30,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 31,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 32,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 35,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 46,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Keli",
+      "id_jogo": 48,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 26,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 31,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 34,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 35,
+      "gols_1": 5,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 42,
+      "gols_1": 6,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 46,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Ceará",
+      "id_jogo": 48,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 26,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 29,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 32,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 35,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 39,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 40,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Leo",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 26,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 31,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 35,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 46,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Alexandre",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 30,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 35,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 39,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Julia",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 27,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 30,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 32,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 35,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 42,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 45,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 46,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Carla",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 40,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 43,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 46,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Angelica",
+      "id_jogo": 48,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 27,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 29,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 31,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 35,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 40,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 43,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "João",
+      "id_jogo": 48,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 25,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 26,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 31,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 33,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 34,
+      "gols_1": 5,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 37,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 39,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 40,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 45,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 46,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Renata",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 29,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 34,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 35,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 38,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 40,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 44,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 46,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Tre",
+      "id_jogo": 48,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 29,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Jr",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 26,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 29,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 30,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 31,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 34,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 39,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 43,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 46,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Eduardo",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 26,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 27,
+      "gols_1": 4,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 31,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 34,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 35,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 37,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 38,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 41,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 42,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 44,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 45,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 46,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Daniel",
+      "id_jogo": 48,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 46,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Gabriel",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 30,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 31,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 32,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 34,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 36,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 38,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 40,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 45,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 46,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Fabio",
+      "id_jogo": 48,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 29,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 31,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 33,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 35,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 37,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 46,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 47,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Rafael",
+      "id_jogo": 48,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 25,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 26,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 30,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 31,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 33,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 34,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 39,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 40,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 41,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 43,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 44,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 45,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 46,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 47,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Felipe",
+      "id_jogo": 48,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 25,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 27,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 28,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 31,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 32,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 5,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 34,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 36,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 38,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 39,
+      "gols_1": 4,
+      "gols_2": 3,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 41,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 42,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 43,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 44,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 46,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 47,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Vitória",
+      "id_jogo": 48,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 25,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 26,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 27,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 28,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 29,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 30,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 31,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 32,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 33,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 34,
+      "gols_1": 6,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 35,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 36,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 37,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 38,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 39,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 40,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 41,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 42,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 43,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 44,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 45,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 1,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 46,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 47,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "R2",
+      "participante": "Petra",
+      "id_jogo": 48,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
     }
   ],
   "ranking": [
     {
       "posicao": "1",
       "participante": "Fabio",
-      "pontos": 23,
-      "placares_exatos": 5
+      "pontos": 44,
+      "placares_exatos": 7
     },
     {
       "posicao": "2",
-      "participante": "Tre",
-      "pontos": 22,
-      "placares_exatos": 4
+      "participante": "Gabriel",
+      "pontos": 42,
+      "placares_exatos": 6
     },
     {
       "posicao": "3",
-      "participante": "Eduardo",
-      "pontos": 21,
-      "placares_exatos": 4
+      "participante": "Leo",
+      "pontos": 41,
+      "placares_exatos": 7
     },
     {
-      "posicao": "4",
-      "participante": "Gabriel",
-      "pontos": 20,
-      "placares_exatos": 3
+      "posicao": "3",
+      "participante": "Tre",
+      "pontos": 41,
+      "placares_exatos": 7
     },
     {
       "posicao": "5",
-      "participante": "Daniel",
-      "pontos": 18,
-      "placares_exatos": 4
+      "participante": "Eduardo",
+      "pontos": 40,
+      "placares_exatos": 7
     },
     {
       "posicao": "6",
       "participante": "Carla",
-      "pontos": 18,
-      "placares_exatos": 3
+      "pontos": 36,
+      "placares_exatos": 5
     },
     {
       "posicao": "7",
-      "participante": "Natalina",
-      "pontos": 17,
-      "placares_exatos": 2
+      "participante": "Jr",
+      "pontos": 35,
+      "placares_exatos": 4
     },
     {
-      "posicao": "8",
-      "participante": "Leo",
-      "pontos": 16,
-      "placares_exatos": 3
+      "posicao": "7",
+      "participante": "Rafael",
+      "pontos": 35,
+      "placares_exatos": 4
     },
     {
       "posicao": "9",
-      "participante": "Rafael",
-      "pontos": 16,
-      "placares_exatos": 2
+      "participante": "João",
+      "pontos": 34,
+      "placares_exatos": 4
     },
     {
-      "posicao": "10",
-      "participante": "Glads",
-      "pontos": 16,
-      "placares_exatos": 1
+      "posicao": "9",
+      "participante": "Julia",
+      "pontos": 34,
+      "placares_exatos": 4
     },
     {
-      "posicao": "10",
-      "participante": "Jr",
-      "pontos": 16,
-      "placares_exatos": 1
+      "posicao": "9",
+      "participante": "Natalina",
+      "pontos": 34,
+      "placares_exatos": 4
     },
     {
       "posicao": "12",
-      "participante": "Alexandre",
-      "pontos": 15,
-      "placares_exatos": 2
+      "participante": "Ceará",
+      "pontos": 34,
+      "placares_exatos": 3
     },
     {
       "posicao": "13",
-      "participante": "Ceará",
-      "pontos": 15,
-      "placares_exatos": 1
+      "participante": "Alexandre",
+      "pontos": 33,
+      "placares_exatos": 5
     },
     {
       "posicao": "14",
-      "participante": "Angelica",
-      "pontos": 14,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "14",
-      "participante": "Carol",
-      "pontos": 14,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "14",
-      "participante": "Renata",
-      "pontos": 14,
-      "placares_exatos": 2
-    },
-    {
-      "posicao": "17",
       "participante": "Petra",
-      "pontos": 14,
-      "placares_exatos": 1
+      "pontos": 33,
+      "placares_exatos": 3
     },
     {
-      "posicao": "18",
+      "posicao": "15",
+      "participante": "Daniel",
+      "pontos": 31,
+      "placares_exatos": 5
+    },
+    {
+      "posicao": "16",
       "participante": "Felipe",
-      "pontos": 13,
-      "placares_exatos": 1
+      "pontos": 31,
+      "placares_exatos": 3
     },
     {
-      "posicao": "18",
-      "participante": "João",
-      "pontos": 13,
-      "placares_exatos": 1
-    },
-    {
-      "posicao": "18",
-      "participante": "Julia",
-      "pontos": 13,
-      "placares_exatos": 1
-    },
-    {
-      "posicao": "18",
+      "posicao": "16",
       "participante": "Marina",
-      "pontos": 13,
-      "placares_exatos": 1
+      "pontos": 31,
+      "placares_exatos": 3
+    },
+    {
+      "posicao": "18",
+      "participante": "Keli",
+      "pontos": 30,
+      "placares_exatos": 5
+    },
+    {
+      "posicao": "19",
+      "participante": "Carol",
+      "pontos": 30,
+      "placares_exatos": 3
+    },
+    {
+      "posicao": "20",
+      "participante": "Glads",
+      "pontos": 30,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "21",
+      "participante": "Angelica",
+      "pontos": 29,
+      "placares_exatos": 3
     },
     {
       "posicao": "22",
-      "participante": "Keli",
-      "pontos": 10,
+      "participante": "Renata",
+      "pontos": 27,
+      "placares_exatos": 2
+    },
+    {
+      "posicao": "23",
+      "participante": "Tais",
+      "pontos": 21,
       "placares_exatos": 1
     },
     {
       "posicao": "23",
       "participante": "Vitória",
-      "pontos": 10,
-      "placares_exatos": 0
-    },
-    {
-      "posicao": "24",
-      "participante": "Tais",
-      "pontos": 9,
+      "pontos": 21,
       "placares_exatos": 1
     }
   ]
