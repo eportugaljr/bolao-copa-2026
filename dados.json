@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-25T21:33:36.340Z",
+  "atualizado_em": "2026-06-25T21:41:07.111Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -664,11 +664,11 @@
     {
       "id_jogo": 56,
       "selecao_01": "Equador",
-      "gols_1_oficial": 1,
+      "gols_1_oficial": 2,
       "gols_2_oficial": 1,
       "selecao_02": "Alemanha",
       "nome_jogo": "Equador x Alemanha",
-      "resultado_oficial": "Empate",
+      "resultado_oficial": "Mandante",
       "rodada": "R3",
       "data": "25/06/2026",
       "hora": "17:00"
@@ -12490,8 +12490,8 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": 0,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R3",
@@ -18285,15 +18285,15 @@
     },
     {
       "posicao": "19",
-      "participante": "Petra",
+      "participante": "Daniel",
       "pontos": 37,
-      "placares_exatos": 3
+      "placares_exatos": 6
     },
     {
       "posicao": "20",
-      "participante": "Daniel",
-      "pontos": 34,
-      "placares_exatos": 5
+      "participante": "Petra",
+      "pontos": 37,
+      "placares_exatos": 3
     },
     {
       "posicao": "21",
