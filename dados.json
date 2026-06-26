@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-26T20:28:28.222Z",
+  "atualizado_em": "2026-06-26T20:42:46.150Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -736,7 +736,7 @@
     {
       "id_jogo": 62,
       "selecao_01": "Senegal",
-      "gols_1_oficial": 3,
+      "gols_1_oficial": 4,
       "gols_2_oficial": 0,
       "selecao_02": "Iraque",
       "nome_jogo": "Senegal x Iraque",
@@ -13510,8 +13510,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R3",
@@ -15190,8 +15190,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R3",
@@ -17350,8 +17350,8 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R3",
@@ -18207,42 +18207,42 @@
     },
     {
       "posicao": "6",
-      "participante": "Ceará",
-      "pontos": 50,
-      "placares_exatos": 6
-    },
-    {
-      "posicao": "6",
-      "participante": "Jr",
-      "pontos": 50,
-      "placares_exatos": 6
-    },
-    {
-      "posicao": "8",
       "participante": "Carla",
       "pontos": 49,
       "placares_exatos": 7
     },
     {
-      "posicao": "9",
+      "posicao": "7",
       "participante": "Julia",
       "pontos": 48,
       "placares_exatos": 6
     },
     {
-      "posicao": "9",
-      "participante": "Natalina",
+      "posicao": "8",
+      "participante": "Ceará",
       "pontos": 48,
-      "placares_exatos": 6
+      "placares_exatos": 5
     },
     {
-      "posicao": "11",
+      "posicao": "8",
       "participante": "Felipe",
       "pontos": 48,
       "placares_exatos": 5
     },
     {
-      "posicao": "12",
+      "posicao": "8",
+      "participante": "Jr",
+      "pontos": 48,
+      "placares_exatos": 5
+    },
+    {
+      "posicao": "11",
+      "participante": "Natalina",
+      "pontos": 46,
+      "placares_exatos": 5
+    },
+    {
+      "posicao": "11",
       "participante": "Rafael",
       "pontos": 46,
       "placares_exatos": 5
