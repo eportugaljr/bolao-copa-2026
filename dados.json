@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-26T00:17:13.808Z",
+  "atualizado_em": "2026-06-26T00:22:13.338Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -677,7 +677,7 @@
       "id_jogo": 57,
       "selecao_01": "Tunísia",
       "gols_1_oficial": 1,
-      "gols_2_oficial": 2,
+      "gols_2_oficial": 3,
       "selecao_02": "Holanda",
       "nome_jogo": "Tunísia x Holanda",
       "resultado_oficial": "Visitante",
@@ -13220,8 +13220,8 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R3",
@@ -13940,8 +13940,8 @@
       "gols_1": 1,
       "gols_2": 3,
       "resultado_palpite": "Visitante",
-      "pontos": 1,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R3",
@@ -16340,8 +16340,8 @@
       "gols_1": 1,
       "gols_2": 3,
       "resultado_palpite": "Visitante",
-      "pontos": 1,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "R3",
@@ -17780,8 +17780,8 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R3",
@@ -18183,13 +18183,13 @@
     },
     {
       "posicao": "2",
-      "participante": "Leo",
-      "pontos": 53,
-      "placares_exatos": 8
+      "participante": "Tre",
+      "pontos": 55,
+      "placares_exatos": 9
     },
     {
-      "posicao": "2",
-      "participante": "Tre",
+      "posicao": "3",
+      "participante": "Leo",
       "pontos": 53,
       "placares_exatos": 8
     },
@@ -18225,6 +18225,12 @@
     },
     {
       "posicao": "9",
+      "participante": "João",
+      "pontos": 44,
+      "placares_exatos": 5
+    },
+    {
+      "posicao": "9",
       "participante": "Julia",
       "pontos": 44,
       "placares_exatos": 5
@@ -18236,51 +18242,45 @@
       "placares_exatos": 5
     },
     {
-      "posicao": "11",
+      "posicao": "12",
       "participante": "Jr",
       "pontos": 44,
       "placares_exatos": 4
     },
     {
-      "posicao": "12",
+      "posicao": "13",
       "participante": "Alexandre",
       "pontos": 43,
       "placares_exatos": 6
     },
     {
-      "posicao": "13",
+      "posicao": "14",
       "participante": "Angelica",
       "pontos": 43,
       "placares_exatos": 5
     },
     {
-      "posicao": "14",
+      "posicao": "15",
       "participante": "Felipe",
       "pontos": 42,
       "placares_exatos": 4
     },
     {
-      "posicao": "14",
-      "participante": "João",
-      "pontos": 42,
-      "placares_exatos": 4
-    },
-    {
-      "posicao": "14",
-      "participante": "Marina",
-      "pontos": 42,
-      "placares_exatos": 4
-    },
-    {
-      "posicao": "17",
+      "posicao": "16",
       "participante": "Carol",
       "pontos": 41,
       "placares_exatos": 5
     },
     {
-      "posicao": "18",
+      "posicao": "17",
       "participante": "Glads",
       "pontos": 41,
+      "placares_exatos": 3
+    },
+    {
+      "posicao": "18",
+      "participante": "Marina",
+      "pontos": 40,
       "placares_exatos": 3
     },
     {
@@ -18297,15 +18297,15 @@
     },
     {
       "posicao": "21",
-      "participante": "Keli",
-      "pontos": 36,
-      "placares_exatos": 6
-    },
-    {
-      "posicao": "22",
       "participante": "Tais",
       "pontos": 35,
       "placares_exatos": 3
+    },
+    {
+      "posicao": "22",
+      "participante": "Keli",
+      "pontos": 34,
+      "placares_exatos": 5
     },
     {
       "posicao": "23",
