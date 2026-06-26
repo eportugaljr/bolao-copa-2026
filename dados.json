@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-26T20:42:46.150Z",
+  "atualizado_em": "2026-06-26T20:51:37.742Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -736,7 +736,7 @@
     {
       "id_jogo": 62,
       "selecao_01": "Senegal",
-      "gols_1_oficial": 4,
+      "gols_1_oficial": 5,
       "gols_2_oficial": 0,
       "selecao_02": "Iraque",
       "nome_jogo": "Senegal x Iraque",
