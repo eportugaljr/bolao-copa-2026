@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-26T20:51:37.742Z",
+  "atualizado_em": "2026-06-26T20:58:45.708Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -725,7 +725,7 @@
       "id_jogo": 61,
       "selecao_01": "Noruega",
       "gols_1_oficial": 1,
-      "gols_2_oficial": 3,
+      "gols_2_oficial": 4,
       "selecao_02": "França",
       "nome_jogo": "Noruega x França",
       "resultado_oficial": "Visitante",
@@ -13500,8 +13500,8 @@
       "gols_1": 1,
       "gols_2": 3,
       "resultado_palpite": "Visitante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R3",
@@ -14460,8 +14460,8 @@
       "gols_1": 1,
       "gols_2": 3,
       "resultado_palpite": "Visitante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R3",
@@ -18060,8 +18060,8 @@
       "gols_1": 1,
       "gols_2": 3,
       "resultado_palpite": "Visitante",
-      "pontos": 3,
-      "exato": 1
+      "pontos": 1,
+      "exato": 0
     },
     {
       "rodada": "R3",
@@ -18213,39 +18213,39 @@
     },
     {
       "posicao": "7",
-      "participante": "Julia",
-      "pontos": 48,
-      "placares_exatos": 6
-    },
-    {
-      "posicao": "8",
-      "participante": "Ceará",
-      "pontos": 48,
-      "placares_exatos": 5
-    },
-    {
-      "posicao": "8",
-      "participante": "Felipe",
-      "pontos": 48,
-      "placares_exatos": 5
-    },
-    {
-      "posicao": "8",
       "participante": "Jr",
       "pontos": 48,
       "placares_exatos": 5
     },
     {
-      "posicao": "11",
+      "posicao": "8",
+      "participante": "Julia",
+      "pontos": 46,
+      "placares_exatos": 5
+    },
+    {
+      "posicao": "8",
       "participante": "Natalina",
       "pontos": 46,
       "placares_exatos": 5
     },
     {
-      "posicao": "11",
+      "posicao": "8",
       "participante": "Rafael",
       "pontos": 46,
       "placares_exatos": 5
+    },
+    {
+      "posicao": "11",
+      "participante": "Ceará",
+      "pontos": 46,
+      "placares_exatos": 4
+    },
+    {
+      "posicao": "11",
+      "participante": "Felipe",
+      "pontos": 46,
+      "placares_exatos": 4
     },
     {
       "posicao": "13",
