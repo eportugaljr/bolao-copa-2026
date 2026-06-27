@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-27T14:46:48.430Z",
+  "atualizado_em": "2026-06-27T14:54:22.241Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -873,7 +873,7 @@
       "selecao_02": "Canadá",
       "nome_jogo": "África do Sul x Canadá",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "28/06/2026",
       "hora": "16:00"
     },
@@ -885,7 +885,7 @@
       "selecao_02": "Japão",
       "nome_jogo": "Brasil x Japão",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "29/06/2026",
       "hora": "14:00"
     },
@@ -897,7 +897,7 @@
       "selecao_02": "Paraguai",
       "nome_jogo": "Alemanha x Paraguai",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "29/06/2026",
       "hora": "17:30"
     },
@@ -909,7 +909,7 @@
       "selecao_02": "Marrocos",
       "nome_jogo": "Holanda x Marrocos",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "29/06/2026",
       "hora": "22:00"
     },
@@ -921,7 +921,7 @@
       "selecao_02": "Noruega",
       "nome_jogo": "Costa do Marfim x Noruega",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "30/06/2026",
       "hora": "14:00"
     },
@@ -933,7 +933,7 @@
       "selecao_02": "Suécia",
       "nome_jogo": "França x Suécia",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "30/06/2026",
       "hora": "18:00"
     },
@@ -945,7 +945,7 @@
       "selecao_02": "Bósnia e Herzegovina",
       "nome_jogo": "Estados Unidos x Bósnia e Herzegovina",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "01/07/2026",
       "hora": "21:00"
     },
@@ -957,7 +957,7 @@
       "selecao_02": "Egito",
       "nome_jogo": "Austrália x Egito",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "03/07/2026",
       "hora": "15:00"
     },
@@ -969,7 +969,7 @@
       "selecao_02": "Cabo Verde",
       "nome_jogo": "Argentina x Cabo Verde",
       "resultado_oficial": "",
-      "rodada": "R4",
+      "rodada": "16avos",
       "data": "03/07/2026",
       "hora": "19:00"
     }
@@ -18278,6 +18278,96 @@
       "gols_1": 0,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 73,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 74,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 75,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 76,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 77,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 78,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 79,
+      "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 80,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Ceará",
+      "id_jogo": 81,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
     },
