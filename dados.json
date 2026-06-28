@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-28T01:41:23.114Z",
+  "atualizado_em": "2026-06-28T01:56:12.865Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -19026,7 +19026,7 @@
       "participante": "Petra",
       "id_jogo": 72,
       "gols_1": 0,
-      "gols_2": 4,
+      "gols_2": 3,
       "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
