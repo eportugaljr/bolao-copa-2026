@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-28T01:27:25.172Z",
+  "atualizado_em": "2026-06-28T01:41:23.114Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -19015,8 +19015,8 @@
       "rodada": "R3",
       "participante": "Petra",
       "id_jogo": 71,
-      "gols_1": 0,
-      "gols_2": 1,
+      "gols_1": 1,
+      "gols_2": 2,
       "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
@@ -19026,7 +19026,7 @@
       "participante": "Petra",
       "id_jogo": 72,
       "gols_1": 0,
-      "gols_2": 3,
+      "gols_2": 4,
       "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
