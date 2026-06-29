@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-29T20:28:58.801Z",
+  "atualizado_em": "2026-06-29T20:53:49.692Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -20347,96 +20347,6 @@
     },
     {
       "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 73,
-      "gols_1": 0,
-      "gols_2": 1,
-      "resultado_palpite": "Visitante",
-      "pontos": 3,
-      "exato": 1
-    },
-    {
-      "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 74,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": 3,
-      "exato": 1
-    },
-    {
-      "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 75,
-      "gols_1": 4,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 76,
-      "gols_1": 6,
-      "gols_2": 3,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 77,
-      "gols_1": 4,
-      "gols_2": 3,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 78,
-      "gols_1": 5,
-      "gols_2": 9,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 79,
-      "gols_1": 6,
-      "gols_2": 7,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 80,
-      "gols_1": 7,
-      "gols_2": 9,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "16avos",
-      "participante": "Petra",
-      "id_jogo": 81,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "16avos",
       "participante": "Felipe",
       "id_jogo": 73,
       "gols_1": null,
@@ -20520,6 +20430,96 @@
       "participante": "Felipe",
       "id_jogo": 81,
       "gols_1": 4,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 73,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 74,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": 3,
+      "exato": 1
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 75,
+      "gols_1": 4,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 76,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 77,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 78,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 79,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 80,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Petra",
+      "id_jogo": 81,
+      "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
       "pontos": null,
