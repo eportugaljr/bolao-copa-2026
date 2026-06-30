@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-30T21:03:22.334Z",
+  "atualizado_em": "2026-06-30T21:10:45.983Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -21310,7 +21310,7 @@
       "participante": "Jr",
       "id_jogo": 83,
       "gols_1": 2,
-      "gols_2": 1,
+      "gols_2": 0,
       "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
