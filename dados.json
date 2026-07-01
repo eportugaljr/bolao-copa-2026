@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-01T02:07:53.526Z",
+  "atualizado_em": "2026-07-01T02:12:34.199Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -22132,6 +22132,76 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Rafael",
+      "id_jogo": 82,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Rafael",
+      "id_jogo": 83,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Rafael",
+      "id_jogo": 84,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Rafael",
+      "id_jogo": 85,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Rafael",
+      "id_jogo": 86,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Rafael",
+      "id_jogo": 87,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "16avos",
+      "participante": "Rafael",
+      "id_jogo": 88,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
     }
