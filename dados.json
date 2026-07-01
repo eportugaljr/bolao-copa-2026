@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-01T02:12:34.199Z",
+  "atualizado_em": "2026-07-01T02:12:46.647Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -22139,9 +22139,9 @@
       "rodada": "16avos",
       "participante": "Rafael",
       "id_jogo": 82,
-      "gols_1": 2,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
+      "gols_1": null,
+      "gols_2": null,
+      "resultado_palpite": "",
       "pontos": null,
       "exato": 0
     },
