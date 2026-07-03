@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-03T19:53:09.508Z",
+  "atualizado_em": "2026-07-03T20:16:14.013Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -952,11 +952,11 @@
     {
       "id_jogo": 80,
       "selecao_01": "Austrália",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
+      "gols_1_oficial": 1,
+      "gols_2_oficial": 1,
       "selecao_02": "Egito",
       "nome_jogo": "Austrália x Egito",
-      "resultado_oficial": "",
+      "resultado_oficial": "Empate",
       "rodada": "16avos",
       "data": "03/07/2026",
       "hora": "15:00"
