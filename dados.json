@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-03T18:07:10.235Z",
+  "atualizado_em": "2026-07-03T19:13:10.906Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -22712,6 +22712,56 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 89,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 90,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 91,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 92,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 93,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
     }
