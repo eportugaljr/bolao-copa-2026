@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-03T20:16:14.013Z",
+  "atualizado_em": "2026-07-03T20:17:46.612Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -18426,6 +18426,506 @@
       "exato": 0
     },
     {
+      "rodada": "Oitavas",
+      "participante": "Daniel",
+      "id_jogo": 89,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Daniel",
+      "id_jogo": 90,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Daniel",
+      "id_jogo": 91,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Daniel",
+      "id_jogo": 92,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Daniel",
+      "id_jogo": 93,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Alexandre",
+      "id_jogo": 89,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Alexandre",
+      "id_jogo": 90,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Alexandre",
+      "id_jogo": 91,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Alexandre",
+      "id_jogo": 92,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Alexandre",
+      "id_jogo": 93,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Leo",
+      "id_jogo": 89,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Leo",
+      "id_jogo": 90,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Leo",
+      "id_jogo": 91,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Leo",
+      "id_jogo": 92,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Leo",
+      "id_jogo": 93,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "João",
+      "id_jogo": 89,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "João",
+      "id_jogo": 90,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "João",
+      "id_jogo": 91,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "João",
+      "id_jogo": 92,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "João",
+      "id_jogo": 93,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Vitória",
+      "id_jogo": 89,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Vitória",
+      "id_jogo": 90,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Vitória",
+      "id_jogo": 91,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Vitória",
+      "id_jogo": 92,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Vitória",
+      "id_jogo": 93,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Glads",
+      "id_jogo": 89,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Glads",
+      "id_jogo": 90,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Glads",
+      "id_jogo": 91,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Glads",
+      "id_jogo": 92,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Glads",
+      "id_jogo": 93,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Fabio",
+      "id_jogo": 89,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Fabio",
+      "id_jogo": 90,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Fabio",
+      "id_jogo": 91,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Fabio",
+      "id_jogo": 92,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Fabio",
+      "id_jogo": 93,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Carol",
+      "id_jogo": 89,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Carol",
+      "id_jogo": 90,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Carol",
+      "id_jogo": 91,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Carol",
+      "id_jogo": 92,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Carol",
+      "id_jogo": 93,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Ceará",
+      "id_jogo": 89,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Ceará",
+      "id_jogo": 90,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Ceará",
+      "id_jogo": 91,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Ceará",
+      "id_jogo": 92,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Ceará",
+      "id_jogo": 93,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 89,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 90,
+      "gols_1": 0,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 91,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 92,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Gabriel",
+      "id_jogo": 93,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
       "rodada": "16avos",
       "participante": "Ceará",
       "id_jogo": 73,
@@ -18502,8 +19002,8 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "16avos",
@@ -18592,7 +19092,7 @@
       "gols_1": 0,
       "gols_2": 1,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -18682,7 +19182,7 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -18772,8 +19272,8 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "16avos",
@@ -18862,7 +19362,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -18952,7 +19452,7 @@
       "gols_1": 0,
       "gols_2": 1,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -19042,7 +19542,7 @@
       "gols_1": 3,
       "gols_2": 4,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -19132,7 +19632,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -19222,7 +19722,7 @@
       "gols_1": 0,
       "gols_2": 0,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -19312,8 +19812,8 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "16avos",
@@ -19402,7 +19902,7 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -19492,8 +19992,8 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "16avos",
@@ -19582,7 +20082,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -19672,7 +20172,7 @@
       "gols_1": 0,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -19762,7 +20262,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -19852,7 +20352,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -19942,8 +20442,8 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "16avos",
@@ -20032,7 +20532,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -20122,7 +20622,7 @@
       "gols_1": 0,
       "gols_2": 1,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -20212,7 +20712,7 @@
       "gols_1": 0,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -20302,7 +20802,7 @@
       "gols_1": 2,
       "gols_2": 2,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -20392,7 +20892,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -20482,7 +20982,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -20572,7 +21072,7 @@
       "gols_1": 3,
       "gols_2": 2,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -22262,506 +22762,6 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Daniel",
-      "id_jogo": 89,
-      "gols_1": 1,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Daniel",
-      "id_jogo": 90,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Daniel",
-      "id_jogo": 91,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Daniel",
-      "id_jogo": 92,
-      "gols_1": 2,
-      "gols_2": 2,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Daniel",
-      "id_jogo": 93,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Alexandre",
-      "id_jogo": 89,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Alexandre",
-      "id_jogo": 90,
-      "gols_1": 0,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Alexandre",
-      "id_jogo": 91,
-      "gols_1": 2,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Alexandre",
-      "id_jogo": 92,
-      "gols_1": 2,
-      "gols_2": 2,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Alexandre",
-      "id_jogo": 93,
-      "gols_1": 1,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Leo",
-      "id_jogo": 89,
-      "gols_1": 0,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Leo",
-      "id_jogo": 90,
-      "gols_1": 0,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Leo",
-      "id_jogo": 91,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Leo",
-      "id_jogo": 92,
-      "gols_1": 0,
-      "gols_2": 1,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Leo",
-      "id_jogo": 93,
-      "gols_1": 1,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "João",
-      "id_jogo": 89,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "João",
-      "id_jogo": 90,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "João",
-      "id_jogo": 91,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "João",
-      "id_jogo": 92,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "João",
-      "id_jogo": 93,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Vitória",
-      "id_jogo": 89,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Vitória",
-      "id_jogo": 90,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Vitória",
-      "id_jogo": 91,
-      "gols_1": 1,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Vitória",
-      "id_jogo": 92,
-      "gols_1": 2,
-      "gols_2": 2,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Vitória",
-      "id_jogo": 93,
-      "gols_1": 0,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Glads",
-      "id_jogo": 89,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Glads",
-      "id_jogo": 90,
-      "gols_1": 1,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Glads",
-      "id_jogo": 91,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Glads",
-      "id_jogo": 92,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Glads",
-      "id_jogo": 93,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Fabio",
-      "id_jogo": 89,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Fabio",
-      "id_jogo": 90,
-      "gols_1": 1,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Fabio",
-      "id_jogo": 91,
-      "gols_1": 2,
-      "gols_2": 2,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Fabio",
-      "id_jogo": 92,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Fabio",
-      "id_jogo": 93,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Carol",
-      "id_jogo": 89,
-      "gols_1": 2,
-      "gols_2": 2,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Carol",
-      "id_jogo": 90,
-      "gols_1": 0,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Carol",
-      "id_jogo": 91,
-      "gols_1": 3,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Carol",
-      "id_jogo": 92,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Carol",
-      "id_jogo": 93,
-      "gols_1": 2,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Ceará",
-      "id_jogo": 89,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Ceará",
-      "id_jogo": 90,
-      "gols_1": 0,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Ceará",
-      "id_jogo": 91,
-      "gols_1": 3,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Ceará",
-      "id_jogo": 92,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Ceará",
-      "id_jogo": 93,
-      "gols_1": 1,
-      "gols_2": 1,
-      "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Gabriel",
-      "id_jogo": 89,
-      "gols_1": 0,
-      "gols_2": 1,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Gabriel",
-      "id_jogo": 90,
-      "gols_1": 0,
-      "gols_2": 3,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Gabriel",
-      "id_jogo": 91,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Gabriel",
-      "id_jogo": 92,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Gabriel",
-      "id_jogo": 93,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
     }
@@ -22769,15 +22769,15 @@
   "ranking": [
     {
       "posicao": "1",
-      "participante": "Leo",
-      "pontos": 86,
-      "placares_exatos": 15
+      "participante": "Gabriel",
+      "pontos": 88,
+      "placares_exatos": 14
     },
     {
       "posicao": "2",
-      "participante": "Gabriel",
-      "pontos": 85,
-      "placares_exatos": 13
+      "participante": "Leo",
+      "pontos": 86,
+      "placares_exatos": 15
     },
     {
       "posicao": "3",
@@ -22793,51 +22793,51 @@
     },
     {
       "posicao": "5",
+      "participante": "Jr",
+      "pontos": 74,
+      "placares_exatos": 10
+    },
+    {
+      "posicao": "6",
       "participante": "Carla",
       "pontos": 71,
       "placares_exatos": 10
     },
     {
-      "posicao": "6",
-      "participante": "Jr",
-      "pontos": 71,
+      "posicao": "7",
+      "participante": "Alexandre",
+      "pontos": 70,
+      "placares_exatos": 11
+    },
+    {
+      "posicao": "8",
+      "participante": "Julia",
+      "pontos": 70,
       "placares_exatos": 9
     },
     {
-      "posicao": "7",
+      "posicao": "9",
       "participante": "Fabio",
       "pontos": 69,
       "placares_exatos": 9
     },
     {
-      "posicao": "8",
+      "posicao": "10",
+      "participante": "Ceará",
+      "pontos": 69,
+      "placares_exatos": 7
+    },
+    {
+      "posicao": "11",
       "participante": "Petra",
       "pontos": 68,
       "placares_exatos": 9
     },
     {
-      "posicao": "9",
-      "participante": "Alexandre",
-      "pontos": 67,
-      "placares_exatos": 10
-    },
-    {
-      "posicao": "10",
+      "posicao": "12",
       "participante": "Angelica",
       "pontos": 67,
       "placares_exatos": 9
-    },
-    {
-      "posicao": "11",
-      "participante": "Julia",
-      "pontos": 67,
-      "placares_exatos": 8
-    },
-    {
-      "posicao": "12",
-      "participante": "Ceará",
-      "pontos": 66,
-      "placares_exatos": 6
     },
     {
       "posicao": "13",
@@ -22878,7 +22878,7 @@
     {
       "posicao": "19",
       "participante": "Natalina",
-      "pontos": 60,
+      "pontos": 61,
       "placares_exatos": 5
     },
     {
@@ -22890,7 +22890,7 @@
     {
       "posicao": "21",
       "participante": "Keli",
-      "pontos": 57,
+      "pontos": 58,
       "placares_exatos": 8
     },
     {
