@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-04T12:05:07.412Z",
+  "atualizado_em": "2026-07-04T13:27:13.356Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -23208,6 +23208,66 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "João",
+      "id_jogo": 94,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "João",
+      "id_jogo": 95,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "João",
+      "id_jogo": 96,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Ceará",
+      "id_jogo": 94,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Ceará",
+      "id_jogo": 95,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Ceará",
+      "id_jogo": 96,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
       "pontos": null,
       "exato": 0
     }
