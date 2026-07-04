@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-03T23:19:56.227Z",
+  "atualizado_em": "2026-07-04T01:40:37.659Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -964,11 +964,11 @@
     {
       "id_jogo": 81,
       "selecao_01": "Argentina",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
+      "gols_1_oficial": 1,
+      "gols_2_oficial": 1,
       "selecao_02": "Cabo Verde",
       "nome_jogo": "Argentina x Cabo Verde",
-      "resultado_oficial": "",
+      "resultado_oficial": "Empate",
       "rodada": "16avos",
       "data": "03/07/2026",
       "hora": "19:00"
