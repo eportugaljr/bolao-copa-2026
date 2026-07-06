@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-06T17:17:11.332Z",
+  "atualizado_em": "2026-07-06T17:17:34.271Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -24128,36 +24128,6 @@
       "gols_1": 0,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Tre",
-      "id_jogo": 94,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Tre",
-      "id_jogo": 95,
-      "gols_1": 3,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
-      "pontos": null,
-      "exato": 0
-    },
-    {
-      "rodada": "Oitavas",
-      "participante": "Tre",
-      "id_jogo": 96,
-      "gols_1": 2,
-      "gols_2": 1,
-      "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
     }
