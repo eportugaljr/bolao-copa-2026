@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-06T19:25:04.200Z",
+  "atualizado_em": "2026-07-06T19:29:30.530Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -24105,9 +24105,9 @@
       "rodada": "Oitavas",
       "participante": "Eduardo",
       "id_jogo": 94,
-      "gols_1": 1,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
+      "gols_1": null,
+      "gols_2": null,
+      "resultado_palpite": "",
       "pontos": null,
       "exato": 0
     },
