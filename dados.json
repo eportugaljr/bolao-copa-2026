@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-06T19:12:14.639Z",
+  "atualizado_em": "2026-07-06T19:16:50.398Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -23925,8 +23925,8 @@
       "rodada": "Oitavas",
       "participante": "Petra",
       "id_jogo": 94,
-      "gols_1": 2,
-      "gols_2": 3,
+      "gols_1": 1,
+      "gols_2": 2,
       "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
