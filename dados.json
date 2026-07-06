@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-06T02:21:01.397Z",
+  "atualizado_em": "2026-07-06T02:48:20.451Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -23235,9 +23235,9 @@
       "rodada": "Oitavas",
       "participante": "Jr",
       "id_jogo": 92,
-      "gols_1": 0,
+      "gols_1": 1,
       "gols_2": 1,
-      "resultado_palpite": "Visitante",
+      "resultado_palpite": "Empate",
       "pontos": null,
       "exato": 0
     },
