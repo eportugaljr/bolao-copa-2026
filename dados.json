@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-05T22:32:21.955Z",
+  "atualizado_em": "2026-07-06T02:21:01.397Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -23235,9 +23235,9 @@
       "rodada": "Oitavas",
       "participante": "Jr",
       "id_jogo": 92,
-      "gols_1": 1,
+      "gols_1": 0,
       "gols_2": 1,
-      "resultado_palpite": "Empate",
+      "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
     },
@@ -24004,6 +24004,66 @@
     {
       "rodada": "Oitavas",
       "participante": "Vitória",
+      "id_jogo": 96,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Renata",
+      "id_jogo": 94,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Renata",
+      "id_jogo": 95,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Renata",
+      "id_jogo": 96,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Natalina",
+      "id_jogo": 94,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Natalina",
+      "id_jogo": 95,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Oitavas",
+      "participante": "Natalina",
       "id_jogo": 96,
       "gols_1": 1,
       "gols_2": 2,
