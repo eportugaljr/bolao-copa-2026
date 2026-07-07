@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-06T19:43:09.075Z",
+  "atualizado_em": "2026-07-07T00:27:03.218Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -1120,11 +1120,11 @@
     {
       "id_jogo": 94,
       "selecao_01": "Portugal",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
+      "gols_1_oficial": 0,
+      "gols_2_oficial": 1,
       "selecao_02": "Espanha",
       "nome_jogo": "Portugal x Espanha",
-      "resultado_oficial": "",
+      "resultado_oficial": "Visitante",
       "rodada": "Oitavas",
       "data": "06/07/2026",
       "hora": "16:00"
@@ -23508,7 +23508,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -23538,7 +23538,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -23568,7 +23568,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -23598,7 +23598,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -23628,7 +23628,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -23658,7 +23658,7 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -23688,7 +23688,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -23718,7 +23718,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -23748,7 +23748,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -23778,8 +23778,8 @@
       "gols_1": 0,
       "gols_2": 1,
       "resultado_palpite": "Visitante",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "Oitavas",
@@ -23808,7 +23808,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -23838,7 +23838,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -23868,7 +23868,7 @@
       "gols_1": 3,
       "gols_2": 2,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -23898,7 +23898,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -23928,7 +23928,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -23958,7 +23958,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -23988,7 +23988,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24018,7 +24018,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -24048,7 +24048,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -24078,7 +24078,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 1,
       "exato": 0
     },
     {
@@ -24166,7 +24166,7 @@
     {
       "posicao": "1",
       "participante": "Leo",
-      "pontos": 92,
+      "pontos": 93,
       "placares_exatos": 16
     },
     {
@@ -24184,37 +24184,37 @@
     {
       "posicao": "4",
       "participante": "Tre",
-      "pontos": 83,
+      "pontos": 84,
       "placares_exatos": 14
     },
     {
       "posicao": "5",
       "participante": "Jr",
-      "pontos": 77,
+      "pontos": 78,
       "placares_exatos": 10
     },
     {
       "posicao": "6",
+      "participante": "Julia",
+      "pontos": 77,
+      "placares_exatos": 10
+    },
+    {
+      "posicao": "7",
       "participante": "Carla",
       "pontos": 74,
       "placares_exatos": 10
     },
     {
       "posicao": "7",
-      "participante": "Julia",
-      "pontos": 74,
-      "placares_exatos": 9
-    },
-    {
-      "posicao": "8",
       "participante": "Petra",
-      "pontos": 73,
+      "pontos": 74,
       "placares_exatos": 10
     },
     {
       "posicao": "9",
       "participante": "Alexandre",
-      "pontos": 72,
+      "pontos": 73,
       "placares_exatos": 11
     },
     {
@@ -24237,20 +24237,20 @@
     },
     {
       "posicao": "13",
+      "participante": "Glads",
+      "pontos": 68,
+      "placares_exatos": 7
+    },
+    {
+      "posicao": "14",
       "participante": "Rafael",
       "pontos": 67,
       "placares_exatos": 8
     },
     {
-      "posicao": "14",
-      "participante": "Glads",
-      "pontos": 67,
-      "placares_exatos": 7
-    },
-    {
       "posicao": "15",
       "participante": "Carol",
-      "pontos": 66,
+      "pontos": 67,
       "placares_exatos": 7
     },
     {
@@ -24268,13 +24268,13 @@
     {
       "posicao": "18",
       "participante": "Tais",
-      "pontos": 64,
+      "pontos": 65,
       "placares_exatos": 6
     },
     {
       "posicao": "19",
       "participante": "Natalina",
-      "pontos": 64,
+      "pontos": 65,
       "placares_exatos": 5
     },
     {
@@ -24297,15 +24297,15 @@
     },
     {
       "posicao": "23",
-      "participante": "Daniel",
-      "pontos": 49,
-      "placares_exatos": 9
+      "participante": "Vitória",
+      "pontos": 50,
+      "placares_exatos": 3
     },
     {
       "posicao": "24",
-      "participante": "Vitória",
+      "participante": "Daniel",
       "pontos": 49,
-      "placares_exatos": 3
+      "placares_exatos": 9
     }
   ]
 }
