@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-07T09:11:39.754Z",
+  "atualizado_em": "2026-07-07T13:57:35.856Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -23905,9 +23905,9 @@
       "rodada": "Oitavas",
       "participante": "Natalina",
       "id_jogo": 95,
-      "gols_1": 1,
-      "gols_2": 2,
-      "resultado_palpite": "Visitante",
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
     },
