@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-07T22:06:58.025Z",
+  "atualizado_em": "2026-07-07T23:53:05.892Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -1152,6 +1152,54 @@
       "rodada": "Oitavas",
       "data": "07/07/2026",
       "hora": "17:00"
+    },
+    {
+      "id_jogo": 97,
+      "selecao_01": "França",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Marrocos",
+      "nome_jogo": "França x Marrocos",
+      "resultado_oficial": "",
+      "rodada": "Quartas",
+      "data": "09/07/2026",
+      "hora": "17:00"
+    },
+    {
+      "id_jogo": 98,
+      "selecao_01": "Espanha",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Bélgica",
+      "nome_jogo": "Espanha x Bélgica",
+      "resultado_oficial": "",
+      "rodada": "Quartas",
+      "data": "10/07/2026",
+      "hora": "16:00"
+    },
+    {
+      "id_jogo": 99,
+      "selecao_01": "Noruega",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Inglaterra",
+      "nome_jogo": "Noruega x Inglaterra",
+      "resultado_oficial": "",
+      "rodada": "Quartas",
+      "data": "11/07/2026",
+      "hora": "18:00"
+    },
+    {
+      "id_jogo": 100,
+      "selecao_01": "Argentina",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Suíça",
+      "nome_jogo": "Argentina x Suíça",
+      "resultado_oficial": "",
+      "rodada": "Quartas",
+      "data": "11/07/2026",
+      "hora": "22:00"
     }
   ],
   "participantes": [
@@ -24159,6 +24207,126 @@
       "gols_2": 2,
       "resultado_palpite": "Visitante",
       "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Ceará",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Ceará",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Ceará",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Ceará",
+      "id_jogo": 100,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Leo",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Leo",
+      "id_jogo": 98,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Leo",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Leo",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Fabio",
+      "id_jogo": 97,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Fabio",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Fabio",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Fabio",
+      "id_jogo": 100,
+      "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
       "exato": 0
     }
   ],
