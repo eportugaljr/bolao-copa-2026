@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-07T23:53:05.892Z",
+  "atualizado_em": "2026-07-08T12:15:10.081Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -24324,6 +24324,46 @@
       "participante": "Fabio",
       "id_jogo": 100,
       "gols_1": 3,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Keli",
+      "id_jogo": 97,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Keli",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Keli",
+      "id_jogo": 99,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Keli",
+      "id_jogo": 100,
+      "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
       "pontos": null,
