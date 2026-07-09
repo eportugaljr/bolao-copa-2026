@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-09T12:30:48.917Z",
+  "atualizado_em": "2026-07-09T16:48:02.776Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -24605,6 +24605,166 @@
       "id_jogo": 100,
       "gols_1": 3,
       "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Renata",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Renata",
+      "id_jogo": 98,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Renata",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Renata",
+      "id_jogo": 100,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Tais",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Tais",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Tais",
+      "id_jogo": 99,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Tais",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Alexandre",
+      "id_jogo": 97,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Alexandre",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Alexandre",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Alexandre",
+      "id_jogo": 100,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Natalina",
+      "id_jogo": 97,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Natalina",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Natalina",
+      "id_jogo": 99,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Natalina",
+      "id_jogo": 100,
+      "gols_1": 3,
+      "gols_2": 0,
       "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
