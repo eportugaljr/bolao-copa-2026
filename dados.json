@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-08T19:49:07.442Z",
+  "atualizado_em": "2026-07-09T02:08:26.336Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -24445,6 +24445,126 @@
       "id_jogo": 100,
       "gols_1": 2,
       "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Carla",
+      "id_jogo": 97,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Carla",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Carla",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Carla",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Carol",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Carol",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Carol",
+      "id_jogo": 99,
+      "gols_1": 2,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Carol",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Glads",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Glads",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Glads",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Glads",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 1,
       "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
