@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-09T16:48:02.776Z",
+  "atualizado_em": "2026-07-10T22:26:47.630Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -24765,6 +24765,286 @@
       "id_jogo": 100,
       "gols_1": 3,
       "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Tre",
+      "id_jogo": 97,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Tre",
+      "id_jogo": 98,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Tre",
+      "id_jogo": 99,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Tre",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Marina",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Marina",
+      "id_jogo": 98,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Marina",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Marina",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Eduardo",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Eduardo",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Eduardo",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Eduardo",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Petra",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Petra",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Petra",
+      "id_jogo": 99,
+      "gols_1": 3,
+      "gols_2": 2,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Petra",
+      "id_jogo": 100,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Jr",
+      "id_jogo": 97,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Jr",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Jr",
+      "id_jogo": 99,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Jr",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Vitória",
+      "id_jogo": 97,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Vitória",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Vitória",
+      "id_jogo": 99,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "Vitória",
+      "id_jogo": 100,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "João",
+      "id_jogo": 97,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "João",
+      "id_jogo": 98,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "João",
+      "id_jogo": 99,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Quartas",
+      "participante": "João",
+      "id_jogo": 100,
+      "gols_1": 2,
+      "gols_2": 1,
       "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
