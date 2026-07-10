@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-10T22:26:47.630Z",
+  "atualizado_em": "2026-07-10T22:27:55.326Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -24913,8 +24913,8 @@
       "rodada": "Quartas",
       "participante": "Petra",
       "id_jogo": 99,
-      "gols_1": 3,
-      "gols_2": 2,
+      "gols_1": 2,
+      "gols_2": 1,
       "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
