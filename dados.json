@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-12T03:01:30.335Z",
+  "atualizado_em": "2026-07-12T03:01:57.188Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -1192,11 +1192,11 @@
     {
       "id_jogo": 100,
       "selecao_01": "Argentina",
-      "gols_1_oficial": null,
-      "gols_2_oficial": null,
+      "gols_1_oficial": 1,
+      "gols_2_oficial": 1,
       "selecao_02": "Suíça",
       "nome_jogo": "Argentina x Suíça",
-      "resultado_oficial": "",
+      "resultado_oficial": "Empate",
       "rodada": "Quartas",
       "data": "11/07/2026",
       "hora": "22:00"
@@ -24246,7 +24246,7 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24286,7 +24286,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24326,7 +24326,7 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24366,7 +24366,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24406,7 +24406,7 @@
       "gols_1": 1,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24446,7 +24446,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24486,7 +24486,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24526,7 +24526,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24566,7 +24566,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24606,7 +24606,7 @@
       "gols_1": 3,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24646,7 +24646,7 @@
       "gols_1": 3,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24686,7 +24686,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24726,8 +24726,8 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "Quartas",
@@ -24766,7 +24766,7 @@
       "gols_1": 3,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24806,7 +24806,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24846,7 +24846,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24886,7 +24886,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -24926,8 +24926,8 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
-      "pontos": null,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "Quartas",
@@ -24966,7 +24966,7 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -25006,7 +25006,7 @@
       "gols_1": 0,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     },
     {
@@ -25046,7 +25046,7 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
-      "pontos": null,
+      "pontos": 0,
       "exato": 0
     }
   ],
@@ -25083,39 +25083,39 @@
     },
     {
       "posicao": "6",
+      "participante": "Petra",
+      "pontos": 83,
+      "placares_exatos": 12
+    },
+    {
+      "posicao": "7",
       "participante": "Julia",
       "pontos": 83,
       "placares_exatos": 11
     },
     {
-      "posicao": "7",
+      "posicao": "8",
       "participante": "Fabio",
       "pontos": 80,
       "placares_exatos": 11
     },
     {
-      "posicao": "7",
-      "participante": "Petra",
-      "pontos": 80,
-      "placares_exatos": 11
+      "posicao": "9",
+      "participante": "Alexandre",
+      "pontos": 77,
+      "placares_exatos": 12
     },
     {
-      "posicao": "9",
+      "posicao": "10",
       "participante": "Carla",
       "pontos": 77,
       "placares_exatos": 10
     },
     {
-      "posicao": "10",
+      "posicao": "11",
       "participante": "Ceará",
       "pontos": 77,
       "placares_exatos": 8
-    },
-    {
-      "posicao": "11",
-      "participante": "Alexandre",
-      "pontos": 74,
-      "placares_exatos": 11
     },
     {
       "posicao": "12",
