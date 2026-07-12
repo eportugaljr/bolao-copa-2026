@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-12T03:01:57.188Z",
+  "atualizado_em": "2026-07-12T15:38:44.597Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -1200,6 +1200,30 @@
       "rodada": "Quartas",
       "data": "11/07/2026",
       "hora": "22:00"
+    },
+    {
+      "id_jogo": 101,
+      "selecao_01": "França",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Espanha",
+      "nome_jogo": "França x Espanha",
+      "resultado_oficial": "",
+      "rodada": "Semi",
+      "data": "14/07/2026",
+      "hora": "16:00"
+    },
+    {
+      "id_jogo": 102,
+      "selecao_01": "Inglaterra",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Argentina",
+      "nome_jogo": "Inglaterra x Argentina",
+      "resultado_oficial": "",
+      "rodada": "Semi",
+      "data": "15/07/2026",
+      "hora": "16:00"
     }
   ],
   "participantes": [
@@ -25047,6 +25071,66 @@
       "gols_2": 1,
       "resultado_palpite": "Mandante",
       "pontos": 0,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Vitória",
+      "id_jogo": 101,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Vitória",
+      "id_jogo": 102,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "João",
+      "id_jogo": 101,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "João",
+      "id_jogo": 102,
+      "gols_1": 1,
+      "gols_2": 3,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Keli",
+      "id_jogo": 101,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Keli",
+      "id_jogo": 102,
+      "gols_1": 0,
+      "gols_2": 1,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
       "exato": 0
     }
   ],
