@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-11T23:02:22.727Z",
+  "atualizado_em": "2026-07-12T03:01:30.335Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -24924,8 +24924,8 @@
       "participante": "Petra",
       "id_jogo": 100,
       "gols_1": 1,
-      "gols_2": 0,
-      "resultado_palpite": "Mandante",
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
       "pontos": null,
       "exato": 0
     },
