@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-12T15:38:44.597Z",
+  "atualizado_em": "2026-07-13T18:01:37.494Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25130,6 +25130,46 @@
       "gols_1": 0,
       "gols_2": 1,
       "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Carla",
+      "id_jogo": 101,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Carla",
+      "id_jogo": 102,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Fabio",
+      "id_jogo": 101,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Fabio",
+      "id_jogo": 102,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
       "pontos": null,
       "exato": 0
     }
