@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-13T18:01:37.494Z",
+  "atualizado_em": "2026-07-13T21:58:30.878Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25170,6 +25170,26 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Julia",
+      "id_jogo": 101,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Julia",
+      "id_jogo": 102,
+      "gols_1": 0,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
     }
