@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-14T21:02:05.502Z",
+  "atualizado_em": "2026-07-14T21:31:40.493Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25077,11 +25077,11 @@
       "rodada": "Semi",
       "participante": "Vitória",
       "id_jogo": 101,
-      "gols_1": 1,
+      "gols_1": 0,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
-      "pontos": 1,
-      "exato": 0
+      "pontos": 3,
+      "exato": 1
     },
     {
       "rodada": "Semi",
@@ -25650,8 +25650,8 @@
     {
       "posicao": "23",
       "participante": "Vitória",
-      "pontos": 56,
-      "placares_exatos": 4
+      "pontos": 58,
+      "placares_exatos": 5
     },
     {
       "posicao": "24",
