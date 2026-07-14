@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-14T15:51:33.027Z",
+  "atualizado_em": "2026-07-14T16:50:59.380Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25329,6 +25329,66 @@
       "id_jogo": 102,
       "gols_1": 1,
       "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Ceará",
+      "id_jogo": 101,
+      "gols_1": 2,
+      "gols_2": 2,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Ceará",
+      "id_jogo": 102,
+      "gols_1": 0,
+      "gols_2": 0,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Ceará",
+      "id_jogo": 101,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Ceará",
+      "id_jogo": 102,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Renata",
+      "id_jogo": 101,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Renata",
+      "id_jogo": 102,
+      "gols_1": 2,
+      "gols_2": 3,
       "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
