@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-14T16:53:13.347Z",
+  "atualizado_em": "2026-07-14T17:08:57.443Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25386,6 +25386,66 @@
     {
       "rodada": "Semi",
       "participante": "Petra",
+      "id_jogo": 102,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Tais",
+      "id_jogo": 101,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Tais",
+      "id_jogo": 102,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Alexandre",
+      "id_jogo": 101,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Alexandre",
+      "id_jogo": 102,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Daniel",
+      "id_jogo": 101,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Daniel",
       "id_jogo": 102,
       "gols_1": 2,
       "gols_2": 1,
