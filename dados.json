@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-14T17:48:13.389Z",
+  "atualizado_em": "2026-07-14T17:56:34.799Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25490,6 +25490,26 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Jr",
+      "id_jogo": 101,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Semi",
+      "participante": "Jr",
+      "id_jogo": 102,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
     }
