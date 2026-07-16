@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-15T20:53:58.237Z",
+  "atualizado_em": "2026-07-16T15:28:46.037Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -1223,6 +1223,30 @@
       "resultado_oficial": "Visitante",
       "rodada": "Semi",
       "data": "15/07/2026",
+      "hora": "16:00"
+    },
+    {
+      "id_jogo": 103,
+      "selecao_01": "França",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Inglaterra",
+      "nome_jogo": "França x Inglaterra",
+      "resultado_oficial": "",
+      "rodada": "Final",
+      "data": "18/07/2026",
+      "hora": "18:00"
+    },
+    {
+      "id_jogo": 104,
+      "selecao_01": "Espanha",
+      "gols_1_oficial": null,
+      "gols_2_oficial": null,
+      "selecao_02": "Argentina",
+      "nome_jogo": "Espanha x Argentina",
+      "resultado_oficial": "",
+      "rodada": "Final",
+      "data": "19/07/2026",
       "hora": "16:00"
     }
   ],
@@ -25512,6 +25536,86 @@
       "resultado_palpite": "Visitante",
       "pontos": 3,
       "exato": 1
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Vitória",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Alexandre",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "João",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Daniel",
+      "id_jogo": 103,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Vitória",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Alexandre",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "João",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Daniel",
+      "id_jogo": 104,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
     }
   ],
   "ranking": [
