@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-16T15:28:46.037Z",
+  "atualizado_em": "2026-07-17T20:01:22.411Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25578,6 +25578,26 @@
       "exato": 0
     },
     {
+      "rodada": "3Lugar",
+      "participante": "Marina",
+      "id_jogo": 103,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Gabriel",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
       "rodada": "Final",
       "participante": "Vitória",
       "id_jogo": 104,
@@ -25614,6 +25634,26 @@
       "gols_1": 1,
       "gols_2": 2,
       "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Marina",
+      "id_jogo": 104,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Gabriel",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
     }
