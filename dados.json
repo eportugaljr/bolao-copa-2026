@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-17T20:01:22.411Z",
+  "atualizado_em": "2026-07-18T13:35:04.734Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25598,6 +25598,46 @@
       "exato": 0
     },
     {
+      "rodada": "3Lugar",
+      "participante": "Carla",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Carol",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Glads",
+      "id_jogo": 103,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Fabio",
+      "id_jogo": 103,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
       "rodada": "Final",
       "participante": "Vitória",
       "id_jogo": 104,
@@ -25654,6 +25694,46 @@
       "gols_1": 2,
       "gols_2": 1,
       "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Carla",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Carol",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Glads",
+      "id_jogo": 104,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Fabio",
+      "id_jogo": 104,
+      "gols_1": 1,
+      "gols_2": 1,
+      "resultado_palpite": "Empate",
       "pontos": null,
       "exato": 0
     }
