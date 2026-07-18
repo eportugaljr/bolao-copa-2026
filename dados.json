@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-18T13:35:04.734Z",
+  "atualizado_em": "2026-07-18T15:21:16.073Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25638,6 +25638,26 @@
       "exato": 0
     },
     {
+      "rodada": "3Lugar",
+      "participante": "Renata",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Jr",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
       "rodada": "Final",
       "participante": "Vitória",
       "id_jogo": 104,
@@ -25734,6 +25754,26 @@
       "gols_1": 1,
       "gols_2": 1,
       "resultado_palpite": "Empate",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Renata",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Jr",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
       "pontos": null,
       "exato": 0
     }
