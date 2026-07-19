@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-18T15:21:16.073Z",
+  "atualizado_em": "2026-07-19T17:10:52.736Z",
   "jogos": [
     {
       "id_jogo": 1,
@@ -25658,6 +25658,66 @@
       "exato": 0
     },
     {
+      "rodada": "3Lugar",
+      "participante": "Eduardo",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Tais",
+      "id_jogo": 103,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Leo",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Julia",
+      "id_jogo": 103,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Tre",
+      "id_jogo": 103,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "3Lugar",
+      "participante": "Petra",
+      "id_jogo": 103,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
       "rodada": "Final",
       "participante": "Vitória",
       "id_jogo": 104,
@@ -25774,6 +25834,66 @@
       "gols_1": 2,
       "gols_2": 0,
       "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Eduardo",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Tais",
+      "id_jogo": 104,
+      "gols_1": 1,
+      "gols_2": 0,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Leo",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Julia",
+      "id_jogo": 104,
+      "gols_1": 2,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Tre",
+      "id_jogo": 104,
+      "gols_1": 3,
+      "gols_2": 1,
+      "resultado_palpite": "Mandante",
+      "pontos": null,
+      "exato": 0
+    },
+    {
+      "rodada": "Final",
+      "participante": "Petra",
+      "id_jogo": 104,
+      "gols_1": 1,
+      "gols_2": 2,
+      "resultado_palpite": "Visitante",
       "pontos": null,
       "exato": 0
     }
